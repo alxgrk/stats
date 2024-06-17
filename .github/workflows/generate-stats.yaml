@@ -12,19 +12,12 @@ jobs:
     concurrency:
       group: stats-concurrency
       cancel-in-progress: true
-    permissions:
-      actions: write
-      checks: write
-      contents: write
-      issues: write
-      pull-requests: write
-      statuses: write
     steps:
       - uses: actions/checkout@v3
 
       - name: profile-stats
         uses: LukeHagar/stats-action@main
         env:
-          GITHUB_TOKEN: "${{ github.token }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
