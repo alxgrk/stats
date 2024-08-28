@@ -2,29 +2,29 @@
     "name": "Alexander Girke",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17218815?v=4",
     "username": "alxgrk",
-    "repoViews": 12,
-    "linesOfCodeChanged": 4019968,
-    "linesAdded": 2716584,
-    "linesDeleted": 1302602,
-    "linesChanged": 782,
-    "totalCommits": 1946,
+    "repoViews": 13,
+    "linesOfCodeChanged": 4020000,
+    "linesAdded": 2716601,
+    "linesDeleted": 1302615,
+    "linesChanged": 784,
+    "totalCommits": 1947,
     "totalPullRequests": 709,
-    "codeByteTotal": 21762372,
+    "codeByteTotal": 66059985,
     "topLanguages": [
         {
             "languageName": "Java",
             "color": "#b07219",
-            "value": 2629394
+            "value": 39085886
         },
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 2917376
+            "value": 4499022
         },
         {
             "languageName": "Shell",
             "color": "#89e051",
-            "value": 74132
+            "value": 116927
         },
         {
             "languageName": "Gherkin",
@@ -49,12 +49,32 @@
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 8246562
+            "value": 13723622
         },
         {
             "languageName": "Python",
             "color": "#3572A5",
             "value": 13009
+        },
+        {
+            "languageName": "Go",
+            "color": "#00ADD8",
+            "value": 496202
+        },
+        {
+            "languageName": "SCSS",
+            "color": "#c6538c",
+            "value": 186820
+        },
+        {
+            "languageName": "FreeMarker",
+            "color": "#0050b2",
+            "value": 94639
+        },
+        {
+            "languageName": "Makefile",
+            "color": "#427819",
+            "value": 15597
         },
         {
             "languageName": "Rust",
@@ -77,24 +97,9 @@
             "value": 1549
         },
         {
-            "languageName": "Go",
-            "color": "#00ADD8",
-            "value": 18676
-        },
-        {
             "languageName": "C#",
             "color": "#178600",
             "value": 4210
-        },
-        {
-            "languageName": "Makefile",
-            "color": "#427819",
-            "value": 980
-        },
-        {
-            "languageName": "SCSS",
-            "color": "#c6538c",
-            "value": 33982
         },
         {
             "languageName": "Solidity",
@@ -129,16 +134,16 @@
     ],
     "forkCount": 6,
     "starCount": 33,
-    "totalContributions": 3965,
+    "totalContributions": 3967,
     "contributionsCollection": {
-        "totalCommitContributions": 2535,
+        "totalCommitContributions": 2536,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 87,
-        "totalRepositoryContributions": 68,
+        "totalRepositoryContributions": 69,
         "totalPullRequestContributions": 709,
         "totalPullRequestReviewContributions": 562,
         "contributionCalendar": {
-            "totalContributions": 3965,
+            "totalContributions": 3967,
             "weeks": [
                 {
                     "contributionDays": [
@@ -14455,8 +14460,12 @@
                             "date": "2024-08-26"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 4,
                             "date": "2024-08-27"
+                        },
+                        {
+                            "contributionCount": 1,
+                            "date": "2024-08-28"
                         }
                     ]
                 }
@@ -14465,5 +14474,5 @@
     },
     "closedIssues": 54,
     "openIssues": 33,
-    "fetchedAt": 1724760102778
+    "fetchedAt": 1724846500250
 }
