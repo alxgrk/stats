@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2016-02-13T14:47:28Z",
-  "repoViews": 60,
-  "linesOfCodeChanged": 4080424,
-  "linesAdded": 2754253,
-  "linesDeleted": 1326171,
-  "commitCount": 1328,
-  "totalCommits": 3003,
+  "repoViews": 16,
+  "linesOfCodeChanged": 4080460,
+  "linesAdded": 2754273,
+  "linesDeleted": 1326187,
+  "commitCount": 1329,
+  "totalCommits": 3004,
   "totalPullRequests": 943,
   "totalPullRequestReviews": 860,
   "codeByteTotal": 67893612,
@@ -190,14 +190,14 @@
   "repositoriesContributedTo": 15,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 5594,
+  "totalContributions": 5595,
   "contributionStats": {
-    "longestStreak": 564,
-    "currentStreak": 564,
+    "longestStreak": 565,
+    "currentStreak": 565,
     "mostActiveDay": "Monday",
     "averagePerDay": 1.55,
     "averagePerWeek": 10.82,
-    "averagePerMonth": 46.38,
+    "averagePerMonth": 46.37,
     "monthlyBreakdown": [
       {
         "month": "2016-02",
@@ -673,7 +673,11 @@
       },
       {
         "month": "2025-12",
-        "contributions": 30
+        "contributions": 31
+      },
+      {
+        "month": "2026-01",
+        "contributions": 0
       }
     ]
   },
@@ -684,9 +688,9 @@
     "archivedRepos": 4,
     "forkedRepos": 20,
     "originalRepos": 53,
-    "activeRepos": 7,
+    "activeRepos": 0,
     "reposWithStars": 8,
-    "reposCreatedThisYear": 3,
+    "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.45
   },
   "computedStats": {
@@ -696,57 +700,14 @@
     "archivedRepos": 4,
     "forkedRepos": 20,
     "originalRepos": 53,
-    "activeRepos": 7,
+    "activeRepos": 0,
     "reposWithStars": 8,
-    "reposCreatedThisYear": 3,
+    "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.45,
     "languageCount": 27,
     "primaryLanguage": "Java",
-    "primaryLanguageThisYear": "TypeScript",
-    "topLanguagesThisYear": [
-      {
-        "languageName": "TypeScript",
-        "color": "#3178c6",
-        "value": 231741,
-        "percentage": 45.42
-      },
-      {
-        "languageName": "Kotlin",
-        "color": "#A97BFF",
-        "value": 159558,
-        "percentage": 31.27
-      },
-      {
-        "languageName": "Rust",
-        "color": "#dea584",
-        "value": 103962,
-        "percentage": 20.38
-      },
-      {
-        "languageName": "JavaScript",
-        "color": "#f1e05a",
-        "value": 9803,
-        "percentage": 1.92
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 3086,
-        "percentage": 0.6
-      },
-      {
-        "languageName": "Swift",
-        "color": "#F05138",
-        "value": 1142,
-        "percentage": 0.22
-      },
-      {
-        "languageName": "CSS",
-        "color": "#663399",
-        "value": 950,
-        "percentage": 0.19
-      }
-    ],
+    "primaryLanguageThisYear": null,
+    "topLanguagesThisYear": [],
     "totalTopics": 2,
     "topTopics": [
       {
@@ -762,23 +723,23 @@
       "aoc-2021-in-kotlin",
       "kotlin"
     ],
-    "contributionsThisYear": 1083,
-    "contributionsLastYear": 1491,
-    "yearOverYearGrowth": -27.36,
+    "contributionsThisYear": 0,
+    "contributionsLastYear": 1084,
+    "yearOverYearGrowth": -100,
     "mostProductiveMonth": {
       "month": "2024-08",
       "contributions": 192
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3625,
+    "totalCommitContributions": 3626,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 89,
     "totalRepositoryContributions": 73,
     "totalPullRequestContributions": 943,
     "totalPullRequestReviewContributions": 860,
     "contributionCalendar": {
-      "totalContributions": 5594,
+      "totalContributions": 5595,
       "weeks": [
         {
           "contributionDays": [
@@ -17347,8 +17308,20 @@
               "date": "2025-12-30"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2025-12-31"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-01"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-01-01"
             }
           ]
         }
@@ -17489,5 +17462,5 @@
   ],
   "closedIssues": 57,
   "openIssues": 32,
-  "fetchedAt": 1767182532133
+  "fetchedAt": 1767268938322
 }
