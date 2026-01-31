@@ -10,92 +10,92 @@
   "websiteUrl": null,
   "createdAt": "2016-02-13T14:47:28Z",
   "repoViews": 42,
-  "linesOfCodeChanged": 4081632,
-  "linesAdded": 2754913,
-  "linesDeleted": 1326719,
-  "commitCount": 1358,
-  "totalCommits": 3033,
+  "linesOfCodeChanged": 4081668,
+  "linesAdded": 2754933,
+  "linesDeleted": 1326735,
+  "commitCount": 1359,
+  "totalCommits": 3034,
   "totalPullRequests": 943,
   "totalPullRequestReviews": 860,
-  "codeByteTotal": 67893612,
+  "codeByteTotal": 70545830,
   "topLanguages": [
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 39085886,
-      "percentage": 57.57
+      "percentage": 55.4
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 13758616,
-      "percentage": 20.26
+      "value": 16407684,
+      "percentage": 23.26
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
       "value": 5167519,
-      "percentage": 7.61
+      "percentage": 7.33
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 4503715,
-      "percentage": 6.63
+      "value": 4503403,
+      "percentage": 6.38
     },
     {
       "languageName": "Kotlin",
       "color": "#A97BFF",
       "value": 1671395,
-      "percentage": 2.46
+      "percentage": 2.37
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 1299468,
-      "percentage": 1.91
+      "percentage": 1.84
     },
     {
       "languageName": "WebAssembly",
       "color": "#04133b",
       "value": 830440,
-      "percentage": 1.22
+      "percentage": 1.18
     },
     {
       "languageName": "Go",
       "color": "#00ADD8",
       "value": 496202,
-      "percentage": 0.73
+      "percentage": 0.7
     },
     {
       "languageName": "Less",
       "color": "#1d365d",
       "value": 301300,
-      "percentage": 0.44
+      "percentage": 0.43
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 198013,
-      "percentage": 0.29
+      "value": 198025,
+      "percentage": 0.28
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 186820,
-      "percentage": 0.28
+      "percentage": 0.26
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 116927,
+      "value": 116912,
       "percentage": 0.17
     },
     {
       "languageName": "FreeMarker",
       "color": "#0050b2",
       "value": 94639,
-      "percentage": 0.14
+      "percentage": 0.13
     },
     {
       "languageName": "C",
@@ -106,7 +106,7 @@
     {
       "languageName": "Dockerfile",
       "color": "#384d54",
-      "value": 31797,
+      "value": 31858,
       "percentage": 0.05
     },
     {
@@ -158,6 +158,12 @@
       "percentage": 0.01
     },
     {
+      "languageName": "MDX",
+      "color": "#fcb32c",
+      "value": 3404,
+      "percentage": 0
+    },
+    {
       "languageName": "CMake",
       "color": "#DA3434",
       "value": 1549,
@@ -190,14 +196,14 @@
   "repositoriesContributedTo": 15,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 5625,
+  "totalContributions": 5626,
   "contributionStats": {
-    "longestStreak": 595,
-    "currentStreak": 595,
+    "longestStreak": 596,
+    "currentStreak": 596,
     "mostActiveDay": "Monday",
     "averagePerDay": 1.54,
     "averagePerWeek": 10.79,
-    "averagePerMonth": 46.25,
+    "averagePerMonth": 46.24,
     "monthlyBreakdown": [
       {
         "month": "2016-02",
@@ -677,7 +683,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 30
+        "contributions": 31
       }
     ]
   },
@@ -688,7 +694,7 @@
     "archivedRepos": 4,
     "forkedRepos": 20,
     "originalRepos": 53,
-    "activeRepos": 2,
+    "activeRepos": 3,
     "reposWithStars": 8,
     "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.44
@@ -700,19 +706,55 @@
     "archivedRepos": 4,
     "forkedRepos": 20,
     "originalRepos": 53,
-    "activeRepos": 2,
+    "activeRepos": 3,
     "reposWithStars": 8,
     "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.44,
-    "languageCount": 27,
+    "languageCount": 28,
     "primaryLanguage": "Java",
-    "primaryLanguageThisYear": "Java",
+    "primaryLanguageThisYear": "TypeScript",
     "topLanguagesThisYear": [
+      {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 4895983,
+        "percentage": 99.13
+      },
       {
         "languageName": "Java",
         "color": "#b07219",
         "value": 31276,
-        "percentage": 100
+        "percentage": 0.63
+      },
+      {
+        "languageName": "JavaScript",
+        "color": "#f1e05a",
+        "value": 7649,
+        "percentage": 0.15
+      },
+      {
+        "languageName": "MDX",
+        "color": "#fcb32c",
+        "value": 3404,
+        "percentage": 0.07
+      },
+      {
+        "languageName": "CSS",
+        "color": "#663399",
+        "value": 625,
+        "percentage": 0.01
+      },
+      {
+        "languageName": "Shell",
+        "color": "#89e051",
+        "value": 140,
+        "percentage": 0
+      },
+      {
+        "languageName": "Dockerfile",
+        "color": "#384d54",
+        "value": 61,
+        "percentage": 0
       }
     ],
     "totalTopics": 2,
@@ -730,23 +772,23 @@
       "aoc-2021-in-kotlin",
       "kotlin"
     ],
-    "contributionsThisYear": 30,
+    "contributionsThisYear": 31,
     "contributionsLastYear": 1084,
-    "yearOverYearGrowth": -97.23,
+    "yearOverYearGrowth": -97.14,
     "mostProductiveMonth": {
       "month": "2024-08",
       "contributions": 192
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3656,
+    "totalCommitContributions": 3657,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 89,
     "totalRepositoryContributions": 73,
     "totalPullRequestContributions": 943,
     "totalPullRequestReviewContributions": 860,
     "contributionCalendar": {
-      "totalContributions": 5625,
+      "totalContributions": 5626,
       "weeks": [
         {
           "contributionDays": [
@@ -17459,8 +17501,12 @@
               "date": "2026-01-29"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-01-30"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-31"
             }
           ]
         }
@@ -17601,5 +17647,5 @@
   ],
   "closedIssues": 57,
   "openIssues": 32,
-  "fetchedAt": 1769774634459
+  "fetchedAt": 1769860941857
 }
