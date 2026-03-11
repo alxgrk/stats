@@ -5,31 +5,31 @@
   "bio": null,
   "company": "@thing-it",
   "location": "Leipzig",
-  "email": "alexgirke@posteo.de",
+  "email": null,
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2016-02-13T14:47:28Z",
   "repoViews": 67,
-  "linesOfCodeChanged": 3968739,
-  "linesAdded": 2660476,
-  "linesDeleted": 1308263,
-  "commitCount": 1283,
-  "totalCommits": 2981,
+  "linesOfCodeChanged": 3972761,
+  "linesAdded": 2663718,
+  "linesDeleted": 1309043,
+  "commitCount": 1303,
+  "totalCommits": 2986,
   "totalPullRequests": 950,
   "totalPullRequestReviews": 861,
-  "codeByteTotal": 64921545,
+  "codeByteTotal": 64943301,
   "topLanguages": [
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 38882056,
-      "percentage": 59.89
+      "percentage": 59.87
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 12538419,
-      "percentage": 19.31
+      "value": 12560175,
+      "percentage": 19.34
     },
     {
       "languageName": "Rust",
@@ -184,14 +184,14 @@
   "repositoriesContributedTo": 15,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 5523,
+  "totalContributions": 5490,
   "contributionStats": {
-    "longestStreak": 634,
-    "currentStreak": 634,
+    "longestStreak": 635,
+    "currentStreak": 635,
     "mostActiveDay": "Monday",
-    "averagePerDay": 1.5,
-    "averagePerWeek": 10.48,
-    "averagePerMonth": 44.93,
+    "averagePerDay": 1.49,
+    "averagePerWeek": 10.42,
+    "averagePerMonth": 44.65,
     "monthlyBreakdown": [
       {
         "month": "2016-02",
@@ -447,7 +447,7 @@
       },
       {
         "month": "2021-05",
-        "contributions": 43
+        "contributions": 42
       },
       {
         "month": "2021-06",
@@ -503,19 +503,19 @@
       },
       {
         "month": "2022-07",
-        "contributions": 133
+        "contributions": 130
       },
       {
         "month": "2022-08",
-        "contributions": 86
+        "contributions": 84
       },
       {
         "month": "2022-09",
-        "contributions": 114
+        "contributions": 113
       },
       {
         "month": "2022-10",
-        "contributions": 76
+        "contributions": 73
       },
       {
         "month": "2022-11",
@@ -539,7 +539,7 @@
       },
       {
         "month": "2023-04",
-        "contributions": 174
+        "contributions": 170
       },
       {
         "month": "2023-05",
@@ -551,11 +551,11 @@
       },
       {
         "month": "2023-07",
-        "contributions": 65
+        "contributions": 61
       },
       {
         "month": "2023-08",
-        "contributions": 66
+        "contributions": 65
       },
       {
         "month": "2023-09",
@@ -567,7 +567,7 @@
       },
       {
         "month": "2023-11",
-        "contributions": 113
+        "contributions": 112
       },
       {
         "month": "2023-12",
@@ -595,39 +595,39 @@
       },
       {
         "month": "2024-06",
-        "contributions": 160
+        "contributions": 159
       },
       {
         "month": "2024-07",
-        "contributions": 128
-      },
-      {
-        "month": "2024-08",
-        "contributions": 192
-      },
-      {
-        "month": "2024-09",
-        "contributions": 136
-      },
-      {
-        "month": "2024-10",
-        "contributions": 174
-      },
-      {
-        "month": "2024-11",
         "contributions": 127
       },
       {
+        "month": "2024-08",
+        "contributions": 191
+      },
+      {
+        "month": "2024-09",
+        "contributions": 130
+      },
+      {
+        "month": "2024-10",
+        "contributions": 170
+      },
+      {
+        "month": "2024-11",
+        "contributions": 126
+      },
+      {
         "month": "2024-12",
-        "contributions": 83
+        "contributions": 82
       },
       {
         "month": "2025-01",
-        "contributions": 55
+        "contributions": 54
       },
       {
         "month": "2025-02",
-        "contributions": 103
+        "contributions": 101
       },
       {
         "month": "2025-03",
@@ -635,7 +635,7 @@
       },
       {
         "month": "2025-04",
-        "contributions": 180
+        "contributions": 181
       },
       {
         "month": "2025-05",
@@ -647,7 +647,7 @@
       },
       {
         "month": "2025-07",
-        "contributions": 127
+        "contributions": 126
       },
       {
         "month": "2025-08",
@@ -675,11 +675,11 @@
       },
       {
         "month": "2026-02",
-        "contributions": 38
+        "contributions": 42
       },
       {
         "month": "2026-03",
-        "contributions": 12
+        "contributions": 13
       }
     ]
   },
@@ -713,8 +713,8 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 5174597,
-        "percentage": 98.38
+        "value": 5196353,
+        "percentage": 98.39
       },
       {
         "languageName": "Java",
@@ -774,23 +774,23 @@
       "aoc-2021-in-kotlin",
       "kotlin"
     ],
-    "contributionsThisYear": 85,
-    "contributionsLastYear": 1081,
-    "yearOverYearGrowth": -92.14,
+    "contributionsThisYear": 90,
+    "contributionsLastYear": 1078,
+    "yearOverYearGrowth": -91.65,
     "mostProductiveMonth": {
       "month": "2024-08",
-      "contributions": 192
+      "contributions": 191
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3573,
+    "totalCommitContributions": 3540,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 73,
     "totalRepositoryContributions": 62,
     "totalPullRequestContributions": 950,
     "totalPullRequestReviewContributions": 861,
     "contributionCalendar": {
-      "totalContributions": 5523,
+      "totalContributions": 5490,
       "weeks": [
         {
           "contributionDays": [
@@ -9619,7 +9619,7 @@
               "date": "2021-05-17"
             },
             {
-              "contributionCount": 7,
+              "contributionCount": 6,
               "date": "2021-05-18"
             },
             {
@@ -11519,7 +11519,7 @@
               "date": "2022-07-07"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 2,
               "date": "2022-07-08"
             },
             {
@@ -11535,7 +11535,7 @@
               "date": "2022-07-10"
             },
             {
-              "contributionCount": 7,
+              "contributionCount": 5,
               "date": "2022-07-11"
             },
             {
@@ -11631,7 +11631,7 @@
               "date": "2022-07-31"
             },
             {
-              "contributionCount": 11,
+              "contributionCount": 10,
               "date": "2022-08-01"
             },
             {
@@ -11759,7 +11759,7 @@
               "date": "2022-08-28"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 2,
               "date": "2022-08-29"
             },
             {
@@ -11903,7 +11903,7 @@
               "date": "2022-09-29"
             },
             {
-              "contributionCount": 16,
+              "contributionCount": 15,
               "date": "2022-09-30"
             },
             {
@@ -11919,7 +11919,7 @@
               "date": "2022-10-02"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 1,
               "date": "2022-10-03"
             },
             {
@@ -11967,7 +11967,7 @@
               "date": "2022-10-13"
             },
             {
-              "contributionCount": 7,
+              "contributionCount": 6,
               "date": "2022-10-14"
             },
             {
@@ -11987,7 +11987,7 @@
               "date": "2022-10-17"
             },
             {
-              "contributionCount": 10,
+              "contributionCount": 9,
               "date": "2022-10-18"
             },
             {
@@ -12819,7 +12819,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 2,
+              "contributionCount": 1,
               "date": "2023-04-16"
             },
             {
@@ -12827,11 +12827,11 @@
               "date": "2023-04-17"
             },
             {
-              "contributionCount": 21,
+              "contributionCount": 19,
               "date": "2023-04-18"
             },
             {
-              "contributionCount": 12,
+              "contributionCount": 11,
               "date": "2023-04-19"
             },
             {
@@ -13179,7 +13179,7 @@
               "date": "2023-07-03"
             },
             {
-              "contributionCount": 10,
+              "contributionCount": 6,
               "date": "2023-07-04"
             },
             {
@@ -13339,7 +13339,7 @@
               "date": "2023-08-07"
             },
             {
-              "contributionCount": 9,
+              "contributionCount": 8,
               "date": "2023-08-08"
             },
             {
@@ -13847,7 +13847,7 @@
               "date": "2023-11-26"
             },
             {
-              "contributionCount": 7,
+              "contributionCount": 6,
               "date": "2023-11-27"
             },
             {
@@ -14827,7 +14827,7 @@
               "date": "2024-06-26"
             },
             {
-              "contributionCount": 24,
+              "contributionCount": 23,
               "date": "2024-06-27"
             },
             {
@@ -14915,7 +14915,7 @@
               "date": "2024-07-15"
             },
             {
-              "contributionCount": 5,
+              "contributionCount": 4,
               "date": "2024-07-16"
             },
             {
@@ -15103,7 +15103,7 @@
               "date": "2024-08-25"
             },
             {
-              "contributionCount": 17,
+              "contributionCount": 16,
               "date": "2024-08-26"
             },
             {
@@ -15203,7 +15203,7 @@
               "date": "2024-09-16"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 2,
               "date": "2024-09-17"
             },
             {
@@ -15211,7 +15211,7 @@
               "date": "2024-09-18"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 2,
               "date": "2024-09-19"
             },
             {
@@ -15231,7 +15231,7 @@
               "date": "2024-09-22"
             },
             {
-              "contributionCount": 16,
+              "contributionCount": 15,
               "date": "2024-09-23"
             },
             {
@@ -15343,7 +15343,7 @@
               "date": "2024-10-17"
             },
             {
-              "contributionCount": 8,
+              "contributionCount": 7,
               "date": "2024-10-18"
             },
             {
@@ -15359,7 +15359,7 @@
               "date": "2024-10-20"
             },
             {
-              "contributionCount": 14,
+              "contributionCount": 13,
               "date": "2024-10-21"
             },
             {
@@ -15371,7 +15371,7 @@
               "date": "2024-10-23"
             },
             {
-              "contributionCount": 10,
+              "contributionCount": 9,
               "date": "2024-10-24"
             },
             {
@@ -15395,7 +15395,7 @@
               "date": "2024-10-28"
             },
             {
-              "contributionCount": 12,
+              "contributionCount": 11,
               "date": "2024-10-29"
             },
             {
@@ -15527,7 +15527,7 @@
               "date": "2024-11-26"
             },
             {
-              "contributionCount": 12,
+              "contributionCount": 11,
               "date": "2024-11-27"
             },
             {
@@ -15579,7 +15579,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 4,
+              "contributionCount": 3,
               "date": "2024-12-08"
             },
             {
@@ -15823,7 +15823,7 @@
               "date": "2025-01-28"
             },
             {
-              "contributionCount": 8,
+              "contributionCount": 7,
               "date": "2025-01-29"
             },
             {
@@ -15855,7 +15855,7 @@
               "date": "2025-02-04"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 5,
               "date": "2025-02-05"
             },
             {
@@ -15875,7 +15875,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 5,
+              "contributionCount": 4,
               "date": "2025-02-09"
             },
             {
@@ -16235,7 +16235,7 @@
               "date": "2025-04-28"
             },
             {
-              "contributionCount": 9,
+              "contributionCount": 10,
               "date": "2025-04-29"
             },
             {
@@ -16531,7 +16531,7 @@
               "date": "2025-07-02"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 5,
               "date": "2025-07-03"
             },
             {
@@ -17563,7 +17563,7 @@
               "date": "2026-02-11"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 5,
               "date": "2026-02-12"
             },
             {
@@ -17587,7 +17587,7 @@
               "date": "2026-02-16"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-02-17"
             },
             {
@@ -17683,8 +17683,12 @@
               "date": "2026-03-09"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-03-10"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-03-11"
             }
           ]
         }
@@ -17825,5 +17829,5 @@
   ],
   "closedIssues": 47,
   "openIssues": 26,
-  "fetchedAt": 1773144333079
+  "fetchedAt": 1773230739565
 }
