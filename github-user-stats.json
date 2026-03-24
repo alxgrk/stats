@@ -9,39 +9,39 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2016-02-13T14:47:28Z",
-  "repoViews": 17,
-  "linesOfCodeChanged": 3783518,
-  "linesAdded": 2543810,
-  "linesDeleted": 1239708,
-  "commitCount": 349,
-  "totalCommits": 2999,
-  "totalPullRequests": 950,
-  "totalPullRequestReviews": 861,
-  "codeByteTotal": 64969548,
+  "repoViews": 15,
+  "linesOfCodeChanged": 3970331,
+  "linesAdded": 2660994,
+  "linesDeleted": 1309337,
+  "commitCount": 1315,
+  "totalCommits": 3001,
+  "totalPullRequests": 952,
+  "totalPullRequestReviews": 862,
+  "codeByteTotal": 65117544,
   "topLanguages": [
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 38882056,
-      "percentage": 59.85
+      "percentage": 59.71
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 12586502,
-      "percentage": 19.37
+      "percentage": 19.33
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
       "value": 5167519,
-      "percentage": 7.95
+      "percentage": 7.94
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
       "value": 4466353,
-      "percentage": 6.87
+      "percentage": 6.86
     },
     {
       "languageName": "Kotlin",
@@ -56,22 +56,22 @@
       "percentage": 1.28
     },
     {
+      "languageName": "HTML",
+      "color": "#e34c26",
+      "value": 512726,
+      "percentage": 0.79
+    },
+    {
       "languageName": "Go",
       "color": "#00ADD8",
       "value": 496202,
       "percentage": 0.76
     },
     {
-      "languageName": "HTML",
-      "color": "#e34c26",
-      "value": 480315,
-      "percentage": 0.74
-    },
-    {
       "languageName": "SCSS",
       "color": "#c6538c",
-      "value": 186669,
-      "percentage": 0.29
+      "value": 255173,
+      "percentage": 0.39
     },
     {
       "languageName": "Shell",
@@ -86,15 +86,15 @@
       "percentage": 0.15
     },
     {
+      "languageName": "CSS",
+      "color": "#663399",
+      "value": 81664,
+      "percentage": 0.13
+    },
+    {
       "languageName": "C",
       "color": "#555555",
       "value": 41062,
-      "percentage": 0.06
-    },
-    {
-      "languageName": "CSS",
-      "color": "#663399",
-      "value": 36447,
       "percentage": 0.06
     },
     {
@@ -124,7 +124,7 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 13009,
+      "value": 14873,
       "percentage": 0.02
     },
     {
@@ -178,20 +178,20 @@
   ],
   "forkCount": 6,
   "starCount": 31,
-  "starsGiven": 321,
+  "starsGiven": 323,
   "followers": 12,
-  "following": 14,
-  "repositoriesContributedTo": 14,
+  "following": 12,
+  "repositoriesContributedTo": 15,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 5504,
+  "totalContributions": 5511,
   "contributionStats": {
-    "longestStreak": 647,
-    "currentStreak": 647,
+    "longestStreak": 649,
+    "currentStreak": 649,
     "mostActiveDay": "Monday",
     "averagePerDay": 1.49,
-    "averagePerWeek": 10.41,
-    "averagePerMonth": 44.61,
+    "averagePerWeek": 10.42,
+    "averagePerMonth": 44.66,
     "monthlyBreakdown": [
       {
         "month": "2016-02",
@@ -679,33 +679,33 @@
       },
       {
         "month": "2026-03",
-        "contributions": 27
+        "contributions": 34
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 62,
-    "publicRepos": 50,
-    "privateRepos": 12,
+    "totalRepos": 64,
+    "publicRepos": 51,
+    "privateRepos": 13,
     "archivedRepos": 4,
-    "forkedRepos": 19,
-    "originalRepos": 43,
-    "activeRepos": 5,
+    "forkedRepos": 20,
+    "originalRepos": 44,
+    "activeRepos": 7,
     "reposWithStars": 7,
-    "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 0.5
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 0.48
   },
   "computedStats": {
-    "totalRepos": 62,
-    "publicRepos": 50,
-    "privateRepos": 12,
+    "totalRepos": 64,
+    "publicRepos": 51,
+    "privateRepos": 13,
     "archivedRepos": 4,
-    "forkedRepos": 19,
-    "originalRepos": 43,
-    "activeRepos": 5,
+    "forkedRepos": 20,
+    "originalRepos": 44,
+    "activeRepos": 7,
     "reposWithStars": 7,
-    "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 0.5,
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 0.48,
     "languageCount": 26,
     "primaryLanguage": "Java",
     "primaryLanguageThisYear": "TypeScript",
@@ -714,37 +714,49 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5222680,
-        "percentage": 98.4
+        "percentage": 95.73
+      },
+      {
+        "languageName": "SCSS",
+        "color": "#c6538c",
+        "value": 68504,
+        "percentage": 1.26
+      },
+      {
+        "languageName": "CSS",
+        "color": "#663399",
+        "value": 65205,
+        "percentage": 1.2
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 50523,
+        "percentage": 0.93
       },
       {
         "languageName": "Java",
         "color": "#b07219",
         "value": 31276,
-        "percentage": 0.59
-      },
-      {
-        "languageName": "CSS",
-        "color": "#663399",
-        "value": 19988,
-        "percentage": 0.38
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 18112,
-        "percentage": 0.34
+        "percentage": 0.57
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 11477,
-        "percentage": 0.22
+        "percentage": 0.21
       },
       {
         "languageName": "MDX",
         "color": "#fcb32c",
         "value": 3990,
-        "percentage": 0.08
+        "percentage": 0.07
+      },
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 1864,
+        "percentage": 0.03
       },
       {
         "languageName": "Shell",
@@ -774,23 +786,23 @@
       "aoc-2021-in-kotlin",
       "kotlin"
     ],
-    "contributionsThisYear": 104,
+    "contributionsThisYear": 111,
     "contributionsLastYear": 1078,
-    "yearOverYearGrowth": -90.35,
+    "yearOverYearGrowth": -89.7,
     "mostProductiveMonth": {
       "month": "2024-08",
       "contributions": 191
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3553,
+    "totalCommitContributions": 3555,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 74,
-    "totalRepositoryContributions": 62,
-    "totalPullRequestContributions": 950,
-    "totalPullRequestReviewContributions": 861,
+    "totalRepositoryContributions": 64,
+    "totalPullRequestContributions": 952,
+    "totalPullRequestReviewContributions": 862,
     "contributionCalendar": {
-      "totalContributions": 5504,
+      "totalContributions": 5511,
       "weeks": [
         {
           "contributionDays": [
@@ -17743,8 +17755,12 @@
               "date": "2026-03-22"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 2,
               "date": "2026-03-23"
+            },
+            {
+              "contributionCount": 5,
+              "date": "2026-03-24"
             }
           ]
         }
@@ -17844,6 +17860,32 @@
       "createdAt": "2019-05-13T18:37:29Z"
     },
     {
+      "name": "zola-theme-nivis",
+      "description": "Nivis: A clean zola theme for bloggers.",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "SCSS",
+      "topics": [],
+      "updatedAt": "2026-03-24T11:28:35Z",
+      "createdAt": "2026-03-24T11:28:35Z"
+    },
+    {
+      "name": "alxgrk-de-blog",
+      "description": "The web page for my personal blog on blog.alxgrk.de",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "primaryLanguage": null,
+      "topics": [],
+      "updatedAt": "2026-03-24T11:11:23Z",
+      "createdAt": "2026-03-24T11:06:19Z"
+    },
+    {
       "name": "fobotss",
       "description": "An intuitive game for anyone who wants to design Robots and learn about open-source.",
       "stars": 0,
@@ -17855,35 +17897,9 @@
       "topics": [],
       "updatedAt": "2025-09-03T21:56:29Z",
       "createdAt": "2025-09-03T21:56:25Z"
-    },
-    {
-      "name": "KMaP",
-      "description": "A flexible and powerful compose multiplatform mapping library",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Kotlin",
-      "topics": [],
-      "updatedAt": "2025-05-28T09:29:27Z",
-      "createdAt": "2025-05-28T09:29:27Z"
-    },
-    {
-      "name": "advent-of-code-rust-2024",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2025-01-06T23:14:00Z",
-      "createdAt": "2024-11-27T10:01:09Z"
     }
   ],
   "closedIssues": 47,
   "openIssues": 27,
-  "fetchedAt": 1774267793120
+  "fetchedAt": 1774354228678
 }
