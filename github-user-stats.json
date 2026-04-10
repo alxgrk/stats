@@ -9,33 +9,33 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2016-02-13T14:47:28Z",
-  "repoViews": 2,
-  "linesOfCodeChanged": 3902737,
-  "linesAdded": 2606540,
-  "linesDeleted": 1296197,
-  "commitCount": 1259,
-  "totalCommits": 3036,
+  "repoViews": 4,
+  "linesOfCodeChanged": 0,
+  "linesAdded": 0,
+  "linesDeleted": 0,
+  "commitCount": 0,
+  "totalCommits": 3038,
   "totalPullRequests": 955,
   "totalPullRequestReviews": 862,
-  "codeByteTotal": 65167931,
+  "codeByteTotal": 65240870,
   "topLanguages": [
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 38882056,
-      "percentage": 59.66
+      "percentage": 59.6
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 12586898,
-      "percentage": 19.31
+      "percentage": 19.29
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
       "value": 5167519,
-      "percentage": 7.93
+      "percentage": 7.92
     },
     {
       "languageName": "JavaScript",
@@ -47,7 +47,7 @@
       "languageName": "Kotlin",
       "color": "#A97BFF",
       "value": 1463221,
-      "percentage": 2.25
+      "percentage": 2.24
     },
     {
       "languageName": "WebAssembly",
@@ -58,8 +58,8 @@
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 515340,
-      "percentage": 0.79
+      "value": 585196,
+      "percentage": 0.9
     },
     {
       "languageName": "Go",
@@ -71,7 +71,7 @@
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 257432,
-      "percentage": 0.4
+      "percentage": 0.39
     },
     {
       "languageName": "CSS",
@@ -82,7 +82,7 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 114583,
+      "value": 117666,
       "percentage": 0.18
     },
     {
@@ -184,14 +184,14 @@
   "repositoriesContributedTo": 15,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 5550,
+  "totalContributions": 5553,
   "contributionStats": {
-    "longestStreak": 664,
-    "currentStreak": 664,
+    "longestStreak": 666,
+    "currentStreak": 666,
     "mostActiveDay": "Monday",
     "averagePerDay": 1.49,
     "averagePerWeek": 10.45,
-    "averagePerMonth": 44.78,
+    "averagePerMonth": 44.79,
     "monthlyBreakdown": [
       {
         "month": "2016-02",
@@ -683,32 +683,32 @@
       },
       {
         "month": "2026-04",
-        "contributions": 26
+        "contributions": 29
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 64,
+    "totalRepos": 65,
     "publicRepos": 52,
-    "privateRepos": 12,
+    "privateRepos": 13,
     "archivedRepos": 4,
     "forkedRepos": 20,
-    "originalRepos": 44,
-    "activeRepos": 7,
+    "originalRepos": 45,
+    "activeRepos": 8,
     "reposWithStars": 7,
-    "reposCreatedThisYear": 2,
+    "reposCreatedThisYear": 3,
     "averageStarsPerRepo": 0.48
   },
   "computedStats": {
-    "totalRepos": 64,
+    "totalRepos": 65,
     "publicRepos": 52,
-    "privateRepos": 12,
+    "privateRepos": 13,
     "archivedRepos": 4,
     "forkedRepos": 20,
-    "originalRepos": 44,
-    "activeRepos": 7,
+    "originalRepos": 45,
+    "activeRepos": 8,
     "reposWithStars": 7,
-    "reposCreatedThisYear": 2,
+    "reposCreatedThisYear": 3,
     "averageStarsPerRepo": 0.48,
     "languageCount": 26,
     "primaryLanguage": "Java",
@@ -718,37 +718,37 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5223076,
-        "percentage": 94.86
+        "percentage": 93.62
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 122993,
+        "percentage": 2.2
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 110422,
-        "percentage": 2.01
+        "percentage": 1.98
       },
       {
         "languageName": "SCSS",
         "color": "#c6538c",
         "value": 70763,
-        "percentage": 1.29
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 53137,
-        "percentage": 0.97
+        "percentage": 1.27
       },
       {
         "languageName": "Java",
         "color": "#b07219",
         "value": 31276,
-        "percentage": 0.57
+        "percentage": 0.56
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 11367,
-        "percentage": 0.21
+        "percentage": 0.2
       },
       {
         "languageName": "MDX",
@@ -757,16 +757,16 @@
         "percentage": 0.07
       },
       {
+        "languageName": "Shell",
+        "color": "#89e051",
+        "value": 3189,
+        "percentage": 0.06
+      },
+      {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 1864,
         "percentage": 0.03
-      },
-      {
-        "languageName": "Shell",
-        "color": "#89e051",
-        "value": 106,
-        "percentage": 0
       },
       {
         "languageName": "Dockerfile",
@@ -790,23 +790,23 @@
       "aoc-2021-in-kotlin",
       "kotlin"
     ],
-    "contributionsThisYear": 150,
+    "contributionsThisYear": 153,
     "contributionsLastYear": 1078,
-    "yearOverYearGrowth": -86.09,
+    "yearOverYearGrowth": -85.81,
     "mostProductiveMonth": {
       "month": "2024-08",
       "contributions": 191
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3591,
+    "totalCommitContributions": 3593,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 74,
-    "totalRepositoryContributions": 64,
+    "totalRepositoryContributions": 65,
     "totalPullRequestContributions": 955,
     "totalPullRequestReviewContributions": 862,
     "contributionCalendar": {
-      "totalContributions": 5550,
+      "totalContributions": 5553,
       "weeks": [
         {
           "contributionDays": [
@@ -17835,8 +17835,12 @@
               "date": "2026-04-08"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-04-09"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-04-10"
             }
           ]
         }
@@ -17936,6 +17940,19 @@
       "createdAt": "2019-05-13T18:37:29Z"
     },
     {
+      "name": "mietenkampagne-2026-04",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": true,
+      "primaryLanguage": "HTML",
+      "topics": [],
+      "updatedAt": "2026-04-09T22:21:34Z",
+      "createdAt": "2026-04-09T22:19:40Z"
+    },
+    {
       "name": "zola-theme-nivis",
       "description": "Nivis: A clean zola theme for bloggers.",
       "stars": 0,
@@ -17960,22 +17977,9 @@
       "topics": [],
       "updatedAt": "2026-04-01T12:09:24Z",
       "createdAt": "2026-03-24T11:06:19Z"
-    },
-    {
-      "name": "fobotss",
-      "description": "An intuitive game for anyone who wants to design Robots and learn about open-source.",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": null,
-      "topics": [],
-      "updatedAt": "2025-09-03T21:56:29Z",
-      "createdAt": "2025-09-03T21:56:25Z"
     }
   ],
   "closedIssues": 47,
   "openIssues": 27,
-  "fetchedAt": 1775736825113
+  "fetchedAt": 1775823097743
 }
