@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2016-02-13T14:47:28Z",
-  "repoViews": 798,
+  "repoViews": 803,
   "linesOfCodeChanged": 0,
   "linesAdded": 0,
   "linesDeleted": 0,
   "commitCount": 14,
-  "totalCommits": 3689,
+  "totalCommits": 3692,
   "totalPullRequests": 955,
   "totalPullRequestReviews": 862,
   "codeByteTotal": 432949405,
@@ -370,14 +370,14 @@
   "repositoriesContributedTo": 13,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 5649,
+  "totalContributions": 5652,
   "contributionStats": {
-    "longestStreak": 714,
-    "currentStreak": 714,
+    "longestStreak": 716,
+    "currentStreak": 716,
     "mostActiveDay": "Monday",
     "averagePerDay": 1.5,
-    "averagePerWeek": 10.49,
-    "averagePerMonth": 44.98,
+    "averagePerWeek": 10.5,
+    "averagePerMonth": 44.99,
     "monthlyBreakdown": [
       {
         "month": "2016-02",
@@ -873,7 +873,7 @@
       },
       {
         "month": "2026-05",
-        "contributions": 38
+        "contributions": 41
       }
     ],
     "yearlyBreakdown": [
@@ -919,7 +919,7 @@
       },
       {
         "year": "2026",
-        "contributions": 249
+        "contributions": 252
       }
     ],
     "peakDay": {
@@ -928,28 +928,28 @@
     }
   },
   "repoStats": {
-    "totalRepos": 209,
+    "totalRepos": 179,
     "publicRepos": 160,
-    "privateRepos": 49,
-    "archivedRepos": 16,
+    "privateRepos": 19,
+    "archivedRepos": 10,
     "forkedRepos": 59,
-    "originalRepos": 150,
-    "activeRepos": 47,
-    "reposWithStars": 62,
+    "originalRepos": 120,
+    "activeRepos": 42,
+    "reposWithStars": 59,
     "reposCreatedThisYear": 3,
-    "averageStarsPerRepo": 729.22
+    "averageStarsPerRepo": 851.42
   },
   "computedStats": {
-    "totalRepos": 209,
+    "totalRepos": 179,
     "publicRepos": 160,
-    "privateRepos": 49,
-    "archivedRepos": 16,
+    "privateRepos": 19,
+    "archivedRepos": 10,
     "forkedRepos": 59,
-    "originalRepos": 150,
-    "activeRepos": 47,
-    "reposWithStars": 62,
+    "originalRepos": 120,
+    "activeRepos": 42,
+    "reposWithStars": 59,
     "reposCreatedThisYear": 3,
-    "averageStarsPerRepo": 729.22,
+    "averageStarsPerRepo": 851.42,
     "languageCount": 57,
     "primaryLanguage": "Java",
     "primaryLanguageThisYear": "Java",
@@ -1287,23 +1287,23 @@
       "workflows",
       "zeebe"
     ],
-    "contributionsThisYear": 249,
+    "contributionsThisYear": 252,
     "contributionsLastYear": 1078,
-    "yearOverYearGrowth": -76.9,
+    "yearOverYearGrowth": -76.62,
     "mostProductiveMonth": {
       "month": "2024-08",
       "contributions": 191
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3689,
+    "totalCommitContributions": 3692,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 74,
     "totalRepositoryContributions": 65,
     "totalPullRequestContributions": 955,
     "totalPullRequestReviewContributions": 862,
     "contributionCalendar": {
-      "totalContributions": 5649,
+      "totalContributions": 5652,
       "weeks": [
         {
           "contributionDays": [
@@ -18560,8 +18560,12 @@
               "date": "2026-05-28"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-05-29"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-05-30"
             }
           ]
         }
@@ -18712,9 +18716,9 @@
   ],
   "closedIssues": 48,
   "openIssues": 26,
-  "fetchedAt": 1780059819730,
+  "fetchedAt": 1780144059953,
   "schemaVersion": 2,
-  "generatedAt": "2026-05-29T13:03:39.730Z",
+  "generatedAt": "2026-05-30T12:27:39.953Z",
   "profile": {
     "name": "Alexander Girke",
     "login": "alxgrk",
@@ -18730,15 +18734,15 @@
     "following": 12
   },
   "profileContributions": {
-    "totalContributions": 5649,
-    "totalCommitContributions": 3689,
+    "totalContributions": 5652,
+    "totalCommitContributions": 3692,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 74,
     "totalRepositoryContributions": 65,
     "totalPullRequestContributions": 955,
     "totalPullRequestReviewContributions": 862,
     "contributionCalendar": {
-      "totalContributions": 5649,
+      "totalContributions": 5652,
       "weeks": [
         {
           "contributionDays": [
@@ -35995,20 +35999,24 @@
               "date": "2026-05-28"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-05-29"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-05-30"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 714,
-      "currentStreak": 714,
+      "longestStreak": 716,
+      "currentStreak": 716,
       "mostActiveDay": "Monday",
       "averagePerDay": 1.5,
-      "averagePerWeek": 10.49,
-      "averagePerMonth": 44.98,
+      "averagePerWeek": 10.5,
+      "averagePerMonth": 44.99,
       "monthlyBreakdown": [
         {
           "month": "2016-02",
@@ -36504,7 +36512,7 @@
         },
         {
           "month": "2026-05",
-          "contributions": 38
+          "contributions": 41
         }
       ],
       "yearlyBreakdown": [
@@ -36550,7 +36558,7 @@
         },
         {
           "year": "2026",
-          "contributions": 249
+          "contributions": 252
         }
       ],
       "peakDay": {
@@ -37092,7 +37100,7 @@
         "nameWithOwner": "alxgrk/stats",
         "owner": "alxgrk",
         "counts": {
-          "commits": 717,
+          "commits": 718,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -37655,6 +37663,10 @@
     "completeness": {
       "complete": true,
       "yearsFetched": [
+        "2025",
+        "2026"
+      ],
+      "yearsFromCache": [
         "2016",
         "2017",
         "2018",
@@ -37663,11 +37675,8 @@
         "2021",
         "2022",
         "2023",
-        "2024",
-        "2025",
-        "2026"
+        "2024"
       ],
-      "yearsFromCache": [],
       "missingYears": []
     }
   },
@@ -37744,7 +37753,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -37782,7 +37791,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -37830,8 +37839,8 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
-        "pullRequests": 1,
+        "issues": 0,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -37873,13 +37882,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 14,
+        "commits": 3,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059371033
+      "metadataFetchedAt": 1780143573319
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxMzE1MzE5ODc=",
@@ -37917,11 +37926,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 8,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059341632
     },
@@ -37954,11 +37963,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 2,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -38016,7 +38025,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1780059377725
+      "metadataFetchedAt": 1780143574107
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODAzNDc4MTQ=",
@@ -38054,11 +38063,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
     },
@@ -38101,11 +38110,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 11,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059347688
     },
@@ -38179,7 +38188,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -38229,7 +38238,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -38287,11 +38296,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 12,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059339335
     },
@@ -38341,7 +38350,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -38381,11 +38390,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 21,
-        "issues": 2,
+        "commits": 0,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059339335
     },
@@ -38461,11 +38470,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
-        "issues": 1,
+        "commits": 0,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
     },
@@ -38505,11 +38514,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 4,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059337484
     },
@@ -38625,7 +38634,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -38671,11 +38680,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 47,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059341632
     },
@@ -38719,7 +38728,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -38781,7 +38790,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059347688
     },
@@ -38814,11 +38823,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059341632
     },
@@ -38851,11 +38860,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 12,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059345583
     },
@@ -38895,11 +38904,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 3,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059341632
     },
@@ -38951,11 +38960,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 36,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -39017,7 +39026,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -39069,11 +39078,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 88,
-        "issues": 13,
+        "commits": 0,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
     },
@@ -39113,11 +39122,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 19,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
     },
@@ -39185,7 +39194,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -39225,11 +39234,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 4,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059341632
     },
@@ -39293,7 +39302,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1780059371033
+      "metadataFetchedAt": 1780143573319
     },
     {
       "id": "R_kgDOG6_zeQ",
@@ -39353,7 +39362,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059351708
     },
@@ -39399,11 +39408,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 4,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -39447,7 +39456,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059341632
     },
@@ -39491,7 +39500,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -39531,11 +39540,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 5,
-        "issues": 3,
+        "commits": 0,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059337484
     },
@@ -39593,11 +39602,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 49,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059347688
     },
@@ -39641,7 +39650,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
     },
@@ -39697,7 +39706,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059345583
     },
@@ -39743,11 +39752,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -39811,11 +39820,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 3,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059351708
     },
@@ -39879,11 +39888,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
     },
@@ -39927,7 +39936,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059345583
     },
@@ -39971,7 +39980,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059341632
     },
@@ -40023,11 +40032,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 7,
+        "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059345583
     },
@@ -40045,9 +40054,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2024-06-16T09:01:51Z",
-      "updatedAt": "2026-05-27T13:05:52Z",
-      "pushedAt": "2026-05-27T13:04:37Z",
-      "defaultBranchOid": "9660b13a1f54b602843427a94a1acfa1c7190ae7",
+      "updatedAt": "2026-05-29T13:03:47Z",
+      "pushedAt": "2026-05-29T13:03:42Z",
+      "defaultBranchOid": "a566e4fd71b7fdc763fda5923627f9a9b74cc6f4",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -40060,13 +40069,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 717,
+        "commits": 514,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059377725
+      "metadataFetchedAt": 1780143574107
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMDkxNTA3MzE=",
@@ -40138,7 +40147,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059345583
     },
@@ -40196,11 +40205,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 286,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059361953
     },
@@ -40246,11 +40255,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -40314,11 +40323,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 7,
+        "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059347688
     },
@@ -40392,7 +40401,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -40478,7 +40487,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -40518,11 +40527,11 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
     },
@@ -40608,7 +40617,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059358939
     },
@@ -40652,7 +40661,7 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 1
+        "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059351708
     },
@@ -40716,7 +40725,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1780059377725
+      "metadataFetchedAt": 1780143574107
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnk2NDE3MDkwMw==",
@@ -40764,7 +40773,7 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -40854,7 +40863,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -40990,7 +40999,7 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -41094,7 +41103,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41205,7 +41214,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41266,7 +41275,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41321,7 +41330,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41376,7 +41385,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41440,7 +41449,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41515,7 +41524,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 2,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41587,7 +41596,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41608,9 +41617,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "WRITE",
       "createdAt": "2019-06-21T18:56:02Z",
-      "updatedAt": "2026-05-29T08:46:41Z",
-      "pushedAt": "2026-05-29T08:47:57Z",
-      "defaultBranchOid": "ffc930163e6f2d07557a2d534e4afd0f36667718",
+      "updatedAt": "2026-05-30T02:43:06Z",
+      "pushedAt": "2026-05-30T02:43:45Z",
+      "defaultBranchOid": "8f787869f975e80a96741b076d02af288d4ff00a",
       "stars": 46,
       "forks": 21,
       "primaryLanguage": "Java",
@@ -41685,7 +41694,8 @@
       ],
       "codeByteTotal": 5003792,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -41694,7 +41704,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059380332
+      "metadataFetchedAt": 1780143577894
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyOTkzMzk0OA==",
@@ -41861,7 +41871,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 2,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -41966,7 +41976,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42033,7 +42043,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42095,7 +42105,7 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -42245,7 +42255,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42302,9 +42312,9 @@
         "cache"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -42378,7 +42388,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 2,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42439,7 +42449,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42500,7 +42510,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 3,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42570,7 +42580,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42620,7 +42630,7 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -42657,7 +42667,8 @@
       ],
       "codeByteTotal": 13614,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -42704,10 +42715,10 @@
         "affiliated"
       ],
       "contributionCounts": {
-        "commits": 7,
-        "issues": 5,
-        "pullRequests": 7,
-        "pullRequestReviews": 3,
+        "commits": 0,
+        "issues": 0,
+        "pullRequests": 0,
+        "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
       "metadataFetchedAt": 1780059343425
@@ -42777,7 +42788,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059371033
+      "metadataFetchedAt": 1780143573319
     },
     {
       "id": "R_kgDOLDT8hg",
@@ -42844,7 +42855,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059371033
+      "metadataFetchedAt": 1780143573319
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxNTgyMzQ2MA==",
@@ -42903,7 +42914,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -42970,7 +42981,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059377725
+      "metadataFetchedAt": 1780143574107
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNTgyMzAxNQ==",
@@ -43022,7 +43033,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -43122,9 +43133,9 @@
         "cache"
       ],
       "contributionCounts": {
-        "commits": 1,
+        "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -43209,7 +43220,8 @@
       ],
       "codeByteTotal": 31083168,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43244,7 +43256,8 @@
       "languages": [],
       "codeByteTotal": 0,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43310,7 +43323,8 @@
       ],
       "codeByteTotal": 814541,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43371,7 +43385,7 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 1,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -43420,7 +43434,8 @@
       ],
       "codeByteTotal": 508551,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43474,7 +43489,8 @@
       ],
       "codeByteTotal": 92602,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43534,7 +43550,8 @@
       ],
       "codeByteTotal": 56791,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43594,7 +43611,8 @@
       ],
       "codeByteTotal": 228519,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43654,7 +43672,8 @@
       ],
       "codeByteTotal": 95938,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43720,7 +43739,8 @@
       ],
       "codeByteTotal": 233150,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43774,7 +43794,8 @@
       ],
       "codeByteTotal": 99086,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43834,7 +43855,8 @@
       ],
       "codeByteTotal": 351199,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43876,7 +43898,8 @@
       ],
       "codeByteTotal": 16640,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43954,7 +43977,8 @@
       ],
       "codeByteTotal": 41873,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -43996,7 +44020,8 @@
       ],
       "codeByteTotal": 5014,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44050,7 +44075,8 @@
       ],
       "codeByteTotal": 13162,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44104,7 +44130,8 @@
       ],
       "codeByteTotal": 35153,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44158,7 +44185,8 @@
       ],
       "codeByteTotal": 53653,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44200,7 +44228,8 @@
       ],
       "codeByteTotal": 2534,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44254,7 +44283,8 @@
       ],
       "codeByteTotal": 111415,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44302,7 +44332,8 @@
       ],
       "codeByteTotal": 16915929,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44356,7 +44387,8 @@
       ],
       "codeByteTotal": 37289,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44398,7 +44430,8 @@
       ],
       "codeByteTotal": 8643,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44446,7 +44479,8 @@
       ],
       "codeByteTotal": 18142,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44488,7 +44522,8 @@
       ],
       "codeByteTotal": 1460,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44534,7 +44569,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059371033
+      "metadataFetchedAt": 1780143573319
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxNTY2ODc1MjE=",
@@ -44567,7 +44602,8 @@
       ],
       "codeByteTotal": 2729,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44615,7 +44651,8 @@
       ],
       "codeByteTotal": 4206,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44669,7 +44706,8 @@
       ],
       "codeByteTotal": 45787,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44729,7 +44767,8 @@
       ],
       "codeByteTotal": 17439,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44783,7 +44822,8 @@
       ],
       "codeByteTotal": 95194,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44849,7 +44889,8 @@
       ],
       "codeByteTotal": 101374,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44909,7 +44950,8 @@
       ],
       "codeByteTotal": 185430,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -44969,7 +45011,8 @@
       ],
       "codeByteTotal": 28722,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45029,7 +45072,8 @@
       ],
       "codeByteTotal": 177281,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45071,7 +45115,8 @@
       ],
       "codeByteTotal": 113771,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45131,7 +45176,8 @@
       ],
       "codeByteTotal": 355283,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45179,7 +45225,8 @@
       ],
       "codeByteTotal": 25753,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45227,7 +45274,8 @@
       ],
       "codeByteTotal": 11773,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45275,7 +45323,8 @@
       ],
       "codeByteTotal": 5938,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45323,7 +45372,8 @@
       ],
       "codeByteTotal": 7459,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45371,7 +45421,8 @@
       ],
       "codeByteTotal": 9500,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45419,7 +45470,8 @@
       ],
       "codeByteTotal": 10721,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45467,7 +45519,8 @@
       ],
       "codeByteTotal": 7894,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45515,7 +45568,8 @@
       ],
       "codeByteTotal": 31545,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45557,7 +45611,8 @@
       ],
       "codeByteTotal": 14102,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45605,7 +45660,8 @@
       ],
       "codeByteTotal": 43450,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45653,7 +45709,8 @@
       ],
       "codeByteTotal": 16442,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45701,7 +45758,8 @@
       ],
       "codeByteTotal": 190077,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45749,7 +45807,8 @@
       ],
       "codeByteTotal": 3587,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45797,7 +45856,8 @@
       ],
       "codeByteTotal": 43420,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45845,7 +45905,8 @@
       ],
       "codeByteTotal": 4129,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45893,7 +45954,8 @@
       ],
       "codeByteTotal": 3735,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45941,7 +46003,8 @@
       ],
       "codeByteTotal": 26655,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -45989,7 +46052,8 @@
       ],
       "codeByteTotal": 13658,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46037,7 +46101,8 @@
       ],
       "codeByteTotal": 28006,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46085,7 +46150,8 @@
       ],
       "codeByteTotal": 26418,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46133,7 +46199,8 @@
       ],
       "codeByteTotal": 35882,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46181,7 +46248,8 @@
       ],
       "codeByteTotal": 24881,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46235,7 +46303,8 @@
       ],
       "codeByteTotal": 194483,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46283,7 +46352,8 @@
       ],
       "codeByteTotal": 23857,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46331,7 +46401,8 @@
       ],
       "codeByteTotal": 12366,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46379,7 +46450,8 @@
       ],
       "codeByteTotal": 23144,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46427,7 +46499,8 @@
       ],
       "codeByteTotal": 42733,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46469,7 +46542,8 @@
       ],
       "codeByteTotal": 12677,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46517,7 +46591,8 @@
       ],
       "codeByteTotal": 32935,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46577,7 +46652,8 @@
       ],
       "codeByteTotal": 270347,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46625,7 +46701,8 @@
       ],
       "codeByteTotal": 349926,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46697,7 +46774,8 @@
       ],
       "codeByteTotal": 180641,
       "sources": [
-        "affiliated"
+        "affiliated",
+        "cache"
       ],
       "contributionCounts": {
         "commits": 0,
@@ -46744,7 +46822,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -46794,7 +46872,7 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 2,
+        "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
@@ -46842,7 +46920,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -46971,7 +47049,7 @@
       ],
       "contributionCounts": {
         "commits": 0,
-        "issues": 1,
+        "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
@@ -46996,7 +47074,7 @@
       "pushedAt": "2026-05-29T07:57:15Z",
       "defaultBranchOid": "d018509f9b5cb5c6ff53156de8b7f3c1fb164f17",
       "stars": 82,
-      "forks": 145,
+      "forks": 146,
       "primaryLanguage": "TypeScript",
       "topics": [],
       "languages": [
@@ -47051,7 +47129,7 @@
         "pullRequestReviews": 2,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780059377725
+      "metadataFetchedAt": 1780143574107
     }
   ],
   "repoMetrics": {
@@ -47490,39 +47568,39 @@
       "linesDeleted": 0,
       "linesOfCodeChanged": 0,
       "reposCompleted": 10,
-      "reposPending": 50,
+      "reposPending": 34,
       "reposFailed": 0
     },
     "traffic": {
-      "repoViews": 798,
-      "repoViewUniques": 115,
+      "repoViews": 803,
+      "repoViewUniques": 119,
       "reposCompleted": 60,
       "reposPending": 64,
       "reposFailed": 0
     },
     "repoStats": {
-      "totalRepos": 209,
+      "totalRepos": 179,
       "publicRepos": 160,
-      "privateRepos": 49,
-      "archivedRepos": 16,
+      "privateRepos": 19,
+      "archivedRepos": 10,
       "forkedRepos": 59,
-      "originalRepos": 150,
-      "activeRepos": 47,
-      "reposWithStars": 62,
+      "originalRepos": 120,
+      "activeRepos": 42,
+      "reposWithStars": 59,
       "reposCreatedThisYear": 3,
-      "averageStarsPerRepo": 729.22
+      "averageStarsPerRepo": 851.42
     },
     "computedStats": {
-      "totalRepos": 209,
+      "totalRepos": 179,
       "publicRepos": 160,
-      "privateRepos": 49,
-      "archivedRepos": 16,
+      "privateRepos": 19,
+      "archivedRepos": 10,
       "forkedRepos": 59,
-      "originalRepos": 150,
-      "activeRepos": 47,
-      "reposWithStars": 62,
+      "originalRepos": 120,
+      "activeRepos": 42,
+      "reposWithStars": 59,
       "reposCreatedThisYear": 3,
-      "averageStarsPerRepo": 729.22,
+      "averageStarsPerRepo": 851.42,
       "languageCount": 57,
       "primaryLanguage": "Java",
       "primaryLanguageThisYear": "Java",
@@ -47860,9 +47938,9 @@
         "workflows",
         "zeebe"
       ],
-      "contributionsThisYear": 249,
+      "contributionsThisYear": 252,
       "contributionsLastYear": 1078,
-      "yearOverYearGrowth": -76.9,
+      "yearOverYearGrowth": -76.62,
       "mostProductiveMonth": {
         "month": "2024-08",
         "contributions": 191
@@ -47873,9 +47951,9 @@
     "readmeSummary": {
       "name": "Alexander Girke",
       "username": "alxgrk",
-      "totalContributions": 5649,
-      "currentStreak": 714,
-      "longestStreak": 714,
+      "totalContributions": 5652,
+      "currentStreak": 716,
+      "longestStreak": 716,
       "topLanguages": [
         {
           "languageName": "Java",
@@ -47910,20 +47988,20 @@
       ],
       "starsReceived": 31,
       "forksReceived": 6,
-      "activeRepos": 47,
-      "refreshedAt": "2026-05-29T13:03:39.730Z",
+      "activeRepos": 42,
+      "refreshedAt": "2026-05-30T12:27:39.953Z",
       "complete": false
     },
     "cards": [
       {
         "id": "total-contributions",
         "label": "Total contributions",
-        "value": "5.6K"
+        "value": "5.7K"
       },
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "714 days"
+        "value": "716 days"
       },
       {
         "id": "languages",
@@ -47985,7 +48063,7 @@
       },
       {
         "period": "2026",
-        "contributions": 249
+        "contributions": 252
       }
     ],
     "highlights": [
@@ -48019,14 +48097,14 @@
         {
           "id": "contributions",
           "title": "Contribution history",
-          "metric": "5.6K",
-          "supportingText": "714 day longest streak"
+          "metric": "5.7K",
+          "supportingText": "716 day longest streak"
         },
         {
           "id": "repositories",
           "title": "Repository footprint",
-          "metric": 209,
-          "supportingText": "47 active this year"
+          "metric": 179,
+          "supportingText": "42 active this year"
         },
         {
           "id": "languages",
@@ -48040,48 +48118,48 @@
   "privacy": {
     "privateRepositoryDetailsIncluded": false,
     "privateCacheDetailsIncluded": false,
-    "redactedPrivateRepositories": 49,
-    "redactedRepositoryContributions": 49,
+    "redactedPrivateRepositories": 19,
+    "redactedRepositoryContributions": 19,
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1780059335911,
-    "finishedAt": 1780059819730,
-    "durationMs": 483819,
+    "startedAt": 1780143571722,
+    "finishedAt": 1780144059953,
+    "durationMs": 488231,
     "coreComplete": true,
     "complete": false,
     "cache": {
       "stablePath": ".github-profile-stats/cache.json",
       "volatilePath": ".github-profile-stats/volatile-cache.json",
-      "contributionYearsFromCache": 0,
-      "contributionYearsFetched": 11,
-      "repositoriesFromCache": 57,
-      "repositoriesFetched": 98
+      "contributionYearsFromCache": 9,
+      "contributionYearsFetched": 2,
+      "repositoriesFromCache": 125,
+      "repositoriesFetched": 30
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 170,
-      "pending": 114,
+      "completedThisRun": 177,
+      "pending": 98,
       "failedThisRun": 0,
-      "skippedThisRun": 114
+      "skippedThisRun": 98
     },
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4949,
-        "used": 51,
-        "resetAt": "2026-05-29T13:55:36Z"
+        "remaining": 4989,
+        "used": 11,
+        "resetAt": "2026-05-30T13:19:31Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4583,
-        "used": 417,
-        "resetAt": "2026-05-29T13:56:44.000Z"
+        "remaining": 4535,
+        "used": 465,
+        "resetAt": "2026-05-30T13:19:49.000Z"
       }
     },
     "warnings": [
-      "Private repository details redacted: 49 repositories",
-      "Private repository contribution details redacted: 49 repositories"
+      "Private repository details redacted: 19 repositories",
+      "Private repository contribution details redacted: 19 repositories"
     ],
     "errors": []
   },
@@ -48096,12 +48174,12 @@
     "twitterUsername": null,
     "websiteUrl": null,
     "createdAt": "2016-02-13T14:47:28Z",
-    "repoViews": 798,
+    "repoViews": 803,
     "linesOfCodeChanged": 0,
     "linesAdded": 0,
     "linesDeleted": 0,
     "commitCount": 14,
-    "totalCommits": 3689,
+    "totalCommits": 3692,
     "totalPullRequests": 955,
     "totalPullRequestReviews": 862,
     "codeByteTotal": 432949405,
@@ -48457,14 +48535,14 @@
     "repositoriesContributedTo": 13,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 5649,
+    "totalContributions": 5652,
     "contributionStats": {
-      "longestStreak": 714,
-      "currentStreak": 714,
+      "longestStreak": 716,
+      "currentStreak": 716,
       "mostActiveDay": "Monday",
       "averagePerDay": 1.5,
-      "averagePerWeek": 10.49,
-      "averagePerMonth": 44.98,
+      "averagePerWeek": 10.5,
+      "averagePerMonth": 44.99,
       "monthlyBreakdown": [
         {
           "month": "2016-02",
@@ -48960,7 +49038,7 @@
         },
         {
           "month": "2026-05",
-          "contributions": 38
+          "contributions": 41
         }
       ],
       "yearlyBreakdown": [
@@ -49006,7 +49084,7 @@
         },
         {
           "year": "2026",
-          "contributions": 249
+          "contributions": 252
         }
       ],
       "peakDay": {
@@ -49015,28 +49093,28 @@
       }
     },
     "repoStats": {
-      "totalRepos": 209,
+      "totalRepos": 179,
       "publicRepos": 160,
-      "privateRepos": 49,
-      "archivedRepos": 16,
+      "privateRepos": 19,
+      "archivedRepos": 10,
       "forkedRepos": 59,
-      "originalRepos": 150,
-      "activeRepos": 47,
-      "reposWithStars": 62,
+      "originalRepos": 120,
+      "activeRepos": 42,
+      "reposWithStars": 59,
       "reposCreatedThisYear": 3,
-      "averageStarsPerRepo": 729.22
+      "averageStarsPerRepo": 851.42
     },
     "computedStats": {
-      "totalRepos": 209,
+      "totalRepos": 179,
       "publicRepos": 160,
-      "privateRepos": 49,
-      "archivedRepos": 16,
+      "privateRepos": 19,
+      "archivedRepos": 10,
       "forkedRepos": 59,
-      "originalRepos": 150,
-      "activeRepos": 47,
-      "reposWithStars": 62,
+      "originalRepos": 120,
+      "activeRepos": 42,
+      "reposWithStars": 59,
       "reposCreatedThisYear": 3,
-      "averageStarsPerRepo": 729.22,
+      "averageStarsPerRepo": 851.42,
       "languageCount": 57,
       "primaryLanguage": "Java",
       "primaryLanguageThisYear": "Java",
@@ -49374,23 +49452,23 @@
         "workflows",
         "zeebe"
       ],
-      "contributionsThisYear": 249,
+      "contributionsThisYear": 252,
       "contributionsLastYear": 1078,
-      "yearOverYearGrowth": -76.9,
+      "yearOverYearGrowth": -76.62,
       "mostProductiveMonth": {
         "month": "2024-08",
         "contributions": 191
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 3689,
+      "totalCommitContributions": 3692,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 74,
       "totalRepositoryContributions": 65,
       "totalPullRequestContributions": 955,
       "totalPullRequestReviewContributions": 862,
       "contributionCalendar": {
-        "totalContributions": 5649,
+        "totalContributions": 5652,
         "weeks": [
           {
             "contributionDays": [
@@ -66647,8 +66725,12 @@
                 "date": "2026-05-28"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-05-29"
+              },
+              {
+                "contributionCount": 2,
+                "date": "2026-05-30"
               }
             ]
           }
@@ -66799,6 +66881,6 @@
     ],
     "closedIssues": 48,
     "openIssues": 26,
-    "fetchedAt": 1780059819730
+    "fetchedAt": 1780144059953
   }
 }
