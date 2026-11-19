@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2016-02-13T14:47:28Z",
-  "repoViews": 1227,
-  "linesOfCodeChanged": 4338623,
-  "linesAdded": 2922191,
-  "linesDeleted": 1416432,
-  "commitCount": 1518,
-  "totalCommits": 3689,
+  "repoViews": 1148,
+  "linesOfCodeChanged": 4340497,
+  "linesAdded": 2923282,
+  "linesDeleted": 1417215,
+  "commitCount": 1519,
+  "totalCommits": 3718,
   "totalPullRequests": 81,
   "totalPullRequestReviews": 666,
-  "codeByteTotal": 434342961,
+  "codeByteTotal": 434366258,
   "topLanguages": [
     {
       "languageName": "Java",
@@ -34,7 +34,7 @@
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 72480892,
+      "value": 72492663,
       "percentage": 16.69
     },
     {
@@ -58,7 +58,7 @@
     {
       "languageName": "Go",
       "color": "#00ADD8",
-      "value": 8760087,
+      "value": 8771423,
       "percentage": 2.02
     },
     {
@@ -250,7 +250,7 @@
     {
       "languageName": "Just",
       "color": "#384d54",
-      "value": 55441,
+      "value": 55631,
       "percentage": 0.01
     },
     {
@@ -382,14 +382,14 @@
   "repositoriesContributedTo": 3,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 6052,
+  "totalContributions": 6081,
   "contributionStats": {
     "longestStreak": 760,
-    "currentStreak": 43,
+    "currentStreak": 45,
     "mostActiveDay": "Monday",
     "averagePerDay": 1.54,
-    "averagePerWeek": 10.75,
-    "averagePerMonth": 46.07,
+    "averagePerWeek": 10.8,
+    "averagePerMonth": 46.28,
     "monthlyBreakdown": [
       {
         "month": "2016-02",
@@ -909,7 +909,7 @@
       },
       {
         "month": "2026-11",
-        "contributions": 17
+        "contributions": 46
       }
     ],
     "yearlyBreakdown": [
@@ -955,7 +955,7 @@
       },
       {
         "year": "2026",
-        "contributions": 653
+        "contributions": 682
       }
     ],
     "peakDay": {
@@ -1005,8 +1005,8 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 37473168,
-        "percentage": 12.75
+        "value": 37484939,
+        "percentage": 12.76
       },
       {
         "languageName": "JavaScript",
@@ -1029,7 +1029,7 @@
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 8096337,
+        "value": 8107673,
         "percentage": 2.76
       },
       {
@@ -1042,7 +1042,7 @@
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 2923504,
-        "percentage": 1
+        "percentage": 0.99
       },
       {
         "languageName": "Python",
@@ -1322,23 +1322,23 @@
       "workflows",
       "zeebe"
     ],
-    "contributionsThisYear": 653,
+    "contributionsThisYear": 682,
     "contributionsLastYear": 1077,
-    "yearOverYearGrowth": -39.37,
+    "yearOverYearGrowth": -36.68,
     "mostProductiveMonth": {
       "month": "2024-08",
       "contributions": 191
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 3689,
+    "totalCommitContributions": 3718,
     "restrictedContributionsCount": 738,
     "totalIssueContributions": 79,
     "totalRepositoryContributions": 67,
     "totalPullRequestContributions": 809,
     "totalPullRequestReviewContributions": 666,
     "contributionCalendar": {
-      "totalContributions": 6052,
+      "totalContributions": 6081,
       "weeks": [
         {
           "contributionDays": [
@@ -19387,8 +19387,12 @@
               "date": "2026-11-17"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 27,
               "date": "2026-11-18"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-11-19"
             }
           ]
         }
@@ -19539,9 +19543,9 @@
   ],
   "closedIssues": 53,
   "openIssues": 26,
-  "fetchedAt": 1795031094416,
+  "fetchedAt": 1795117510008,
   "schemaVersion": 2,
-  "generatedAt": "2026-11-18T19:44:54.416Z",
+  "generatedAt": "2026-11-19T19:45:10.008Z",
   "profile": {
     "name": "Alexander Girke",
     "login": "alxgrk",
@@ -19557,15 +19561,15 @@
     "following": 12
   },
   "profileContributions": {
-    "totalContributions": 6052,
-    "totalCommitContributions": 3689,
+    "totalContributions": 6081,
+    "totalCommitContributions": 3718,
     "restrictedContributionsCount": 738,
     "totalIssueContributions": 79,
     "totalRepositoryContributions": 67,
     "totalPullRequestContributions": 809,
     "totalPullRequestReviewContributions": 666,
     "contributionCalendar": {
-      "totalContributions": 6052,
+      "totalContributions": 6081,
       "weeks": [
         {
           "contributionDays": [
@@ -37614,8 +37618,12 @@
               "date": "2026-11-17"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 27,
               "date": "2026-11-18"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-11-19"
             }
           ]
         }
@@ -37623,11 +37631,11 @@
     },
     "stats": {
       "longestStreak": 760,
-      "currentStreak": 43,
+      "currentStreak": 45,
       "mostActiveDay": "Monday",
       "averagePerDay": 1.54,
-      "averagePerWeek": 10.75,
-      "averagePerMonth": 46.07,
+      "averagePerWeek": 10.8,
+      "averagePerMonth": 46.28,
       "monthlyBreakdown": [
         {
           "month": "2016-02",
@@ -38147,7 +38155,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 17
+          "contributions": 46
         }
       ],
       "yearlyBreakdown": [
@@ -38193,7 +38201,7 @@
         },
         {
           "year": "2026",
-          "contributions": 653
+          "contributions": 682
         }
       ],
       "peakDay": {
@@ -38747,7 +38755,7 @@
         "nameWithOwner": "alxgrk/stats",
         "owner": "alxgrk",
         "counts": {
-          "commits": 888,
+          "commits": 889,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -39535,7 +39543,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030934483
+      "metadataFetchedAt": 1795117350472
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxMzE1MzE5ODc=",
@@ -39672,7 +39680,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODAzNDc4MTQ=",
@@ -39837,7 +39845,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030939413
+      "metadataFetchedAt": 1795117354237
     },
     {
       "id": "R_kgDOK3THvg",
@@ -40619,7 +40627,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     },
     {
       "id": "R_kgDOMKRbuA",
@@ -40955,7 +40963,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795030934483
+      "metadataFetchedAt": 1795117350472
     },
     {
       "id": "R_kgDOG6_zeQ",
@@ -41541,7 +41549,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODY0NzU2NzU=",
@@ -41770,8 +41778,8 @@
       "viewerPermission": "ADMIN",
       "createdAt": "2024-06-16T09:01:51Z",
       "updatedAt": "2026-11-11T19:01:03Z",
-      "pushedAt": "2026-11-17T20:13:17Z",
-      "defaultBranchOid": "b447cc7a3c4dfbb7a3c965619371a022430052dc",
+      "pushedAt": "2026-11-18T19:44:57Z",
+      "defaultBranchOid": "9bb36643b7d6e0c486b16aecc57b814f959bb914",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -41784,13 +41792,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 684,
+        "commits": 685,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMDkxNTA3MzE=",
@@ -42248,7 +42256,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030939413
+      "metadataFetchedAt": 1795117354237
     },
     {
       "id": "R_kgDOJWySOQ",
@@ -42440,7 +42448,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnk2NDE3MDkwMw==",
@@ -43332,9 +43340,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "WRITE",
       "createdAt": "2019-06-21T18:56:02Z",
-      "updatedAt": "2026-11-13T21:54:20Z",
-      "pushedAt": "2026-11-18T19:03:02Z",
-      "defaultBranchOid": "d268d50beedc0fc6effd949ba59a8a8f21d47da8",
+      "updatedAt": "2026-11-18T19:51:10Z",
+      "pushedAt": "2026-11-19T18:01:19Z",
+      "defaultBranchOid": "d74d0c402ef225df941c3ae067c32c3e2f123413",
       "stars": 47,
       "forks": 22,
       "primaryLanguage": "Java",
@@ -43418,7 +43426,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030939413
+      "metadataFetchedAt": 1795117354237
     },
     {
       "id": "R_kgDOVxfnjw",
@@ -44550,8 +44558,8 @@
       "viewerPermission": "READ",
       "createdAt": "2019-02-24T20:30:21Z",
       "updatedAt": "2026-11-11T20:54:40Z",
-      "pushedAt": "2026-11-18T16:08:21Z",
-      "defaultBranchOid": "91cbe2b4fca32ed3c481b75ca8cfd5d2c4d4e0c1",
+      "pushedAt": "2026-11-19T18:43:21Z",
+      "defaultBranchOid": "9651335d30ac7e8b9860775b2d670dcc30353b7e",
       "stars": 155,
       "forks": 57,
       "primaryLanguage": "Go",
@@ -44600,7 +44608,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030934483
+      "metadataFetchedAt": 1795117350472
     },
     {
       "id": "R_kgDOLDT8hg",
@@ -44667,7 +44675,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030934483
+      "metadataFetchedAt": 1795117350472
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxNTgyMzQ2MA==",
@@ -44793,7 +44801,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     },
     {
       "id": "R_kgDOS4dLxQ",
@@ -44809,34 +44817,34 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2026-06-12T09:21:29Z",
-      "updatedAt": "2026-10-14T15:03:12Z",
-      "pushedAt": "2026-10-14T15:02:15Z",
-      "defaultBranchOid": "b7a4b9b3f40e41515b61b1e997574a76696470df",
+      "updatedAt": "2026-11-19T16:03:56Z",
+      "pushedAt": "2026-11-19T15:05:52Z",
+      "defaultBranchOid": "32be3aee5a6a58176dfdd013e57c2a3c75791f9c",
       "stars": 0,
       "forks": 2,
-      "primaryLanguage": "Shell",
+      "primaryLanguage": "Go",
       "topics": [],
       "languages": [
+        {
+          "languageName": "Go",
+          "color": "#00ADD8",
+          "value": 155137,
+          "percentage": 47.05
+        },
         {
           "languageName": "Shell",
           "color": "#89e051",
           "value": 146200,
-          "percentage": 45.94
-        },
-        {
-          "languageName": "Go",
-          "color": "#00ADD8",
-          "value": 143801,
-          "percentage": 45.19
+          "percentage": 44.34
         },
         {
           "languageName": "Just",
           "color": "#384d54",
-          "value": 28211,
-          "percentage": 8.87
+          "value": 28401,
+          "percentage": 8.61
         }
       ],
-      "codeByteTotal": 318212,
+      "codeByteTotal": 329738,
       "sources": [
         "profile-contribution",
         "cache",
@@ -44849,7 +44857,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNTgyMzAxNQ==",
@@ -49066,8 +49074,8 @@
       "viewerPermission": "WRITE",
       "createdAt": "2020-12-18T12:21:28Z",
       "updatedAt": "2026-11-12T15:08:48Z",
-      "pushedAt": "2026-11-18T13:55:11Z",
-      "defaultBranchOid": "9825beb58fd412d6bd9a6844c057fd4b89c5bbc7",
+      "pushedAt": "2026-11-19T17:08:31Z",
+      "defaultBranchOid": "c55decb2cd921fd1af4d681853959891de1e4aed",
       "stars": 88,
       "forks": 155,
       "primaryLanguage": "TypeScript",
@@ -49076,7 +49084,7 @@
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 5414055,
+          "value": 5425826,
           "percentage": 99.76
         },
         {
@@ -49110,7 +49118,7 @@
           "percentage": 0
         }
       ],
-      "codeByteTotal": 5427175,
+      "codeByteTotal": 5438946,
       "sources": [
         "profile-contribution",
         "cache",
@@ -49124,13 +49132,13 @@
         "pullRequestReviews": 2,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1795030935310
+      "metadataFetchedAt": 1795117351040
     }
   ],
   "repoMetrics": {
     "starCount": 32,
     "forkCount": 6,
-    "codeByteTotal": 434342961,
+    "codeByteTotal": 434366258,
     "topLanguages": [
       {
         "languageName": "Java",
@@ -49147,7 +49155,7 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 72480892,
+        "value": 72492663,
         "percentage": 16.69
       },
       {
@@ -49171,7 +49179,7 @@
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 8760087,
+        "value": 8771423,
         "percentage": 2.02
       },
       {
@@ -49363,7 +49371,7 @@
       {
         "languageName": "Just",
         "color": "#384d54",
-        "value": 55441,
+        "value": 55631,
         "percentage": 0.01
       },
       {
@@ -49570,17 +49578,17 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 1518,
-      "linesAdded": 2922191,
-      "linesDeleted": 1416432,
-      "linesOfCodeChanged": 4338623,
+      "totalCommits": 1519,
+      "linesAdded": 2923282,
+      "linesDeleted": 1417215,
+      "linesOfCodeChanged": 4340497,
       "reposCompleted": 166,
       "reposPending": 0,
       "reposFailed": 0
     },
     "traffic": {
-      "repoViews": 1227,
-      "repoViewUniques": 843,
+      "repoViews": 1148,
+      "repoViewUniques": 847,
       "reposCompleted": 129,
       "reposPending": 0,
       "reposFailed": 70
@@ -49627,8 +49635,8 @@
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 37473168,
-          "percentage": 12.75
+          "value": 37484939,
+          "percentage": 12.76
         },
         {
           "languageName": "JavaScript",
@@ -49651,7 +49659,7 @@
         {
           "languageName": "Go",
           "color": "#00ADD8",
-          "value": 8096337,
+          "value": 8107673,
           "percentage": 2.76
         },
         {
@@ -49664,7 +49672,7 @@
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 2923504,
-          "percentage": 1
+          "percentage": 0.99
         },
         {
           "languageName": "Python",
@@ -49944,9 +49952,9 @@
         "workflows",
         "zeebe"
       ],
-      "contributionsThisYear": 653,
+      "contributionsThisYear": 682,
       "contributionsLastYear": 1077,
-      "yearOverYearGrowth": -39.37,
+      "yearOverYearGrowth": -36.68,
       "mostProductiveMonth": {
         "month": "2024-08",
         "contributions": 191
@@ -49957,8 +49965,8 @@
     "readmeSummary": {
       "name": "Alexander Girke",
       "username": "alxgrk",
-      "totalContributions": 6052,
-      "currentStreak": 43,
+      "totalContributions": 6081,
+      "currentStreak": 45,
       "longestStreak": 760,
       "topLanguages": [
         {
@@ -49976,7 +49984,7 @@
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 72480892,
+          "value": 72492663,
           "percentage": 16.69
         },
         {
@@ -49995,7 +50003,7 @@
       "starsReceived": 32,
       "forksReceived": 6,
       "activeRepos": 41,
-      "refreshedAt": "2026-11-18T19:44:54.416Z",
+      "refreshedAt": "2026-11-19T19:45:10.008Z",
       "complete": false
     },
     "cards": [
@@ -50007,7 +50015,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "43 days"
+        "value": "45 days"
       },
       {
         "id": "languages",
@@ -50069,7 +50077,7 @@
       },
       {
         "period": "2026",
-        "contributions": 653
+        "contributions": 682
       }
     ],
     "highlights": [
@@ -50129,9 +50137,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1795030932669,
-    "finishedAt": 1795031094416,
-    "durationMs": 161747,
+    "startedAt": 1795117348414,
+    "finishedAt": 1795117510008,
+    "durationMs": 161594,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -50144,7 +50152,7 @@
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 63,
+      "completedThisRun": 64,
       "pending": 0,
       "failedThisRun": 70,
       "skippedThisRun": 0
@@ -50152,112 +50160,112 @@
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4995,
-        "used": 5,
-        "resetAt": "2026-11-18T20:42:15Z"
+        "remaining": 4991,
+        "used": 9,
+        "resetAt": "2026-11-19T20:42:28Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4830,
-        "used": 170,
-        "resetAt": "2026-11-18T20:42:28.000Z"
+        "remaining": 4832,
+        "used": 168,
+        "resetAt": "2026-11-19T20:42:42.000Z"
       }
     },
     "warnings": [
       "traffic thing-it/cordova-blur-app-privacy-screen returned 403; retrying in 1000ms",
       "traffic thing-it/marketing-site returned 403; retrying in 1000ms",
-      "traffic thing-it/marketing-site returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-blur-app-privacy-screen returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-deeplinks returned 403; retrying in 1000ms",
+      "traffic thing-it/phonegap-plugin-push returned 403; retrying in 1000ms",
+      "traffic thing-it/marketing-site returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-deeplinks returned 403; retrying in 2000ms",
+      "traffic thing-it/phonegap-plugin-push returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-blur-app-privacy-screen returned 403; retrying in 4000ms",
       "traffic thing-it/marketing-site returned 403; retrying in 4000ms",
-      "traffic thing-it/phonegap-plugin-push returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-deeplinks returned 403; retrying in 4000ms",
-      "traffic thing-it/phonegap-plugin-push returned 403; retrying in 2000ms",
       "traffic thing-it/phonegap-plugin-push returned 403; retrying in 4000ms",
       "traffic thing-it/cordova-plugin-localization-strings returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-secure-storage returned 403; retrying in 1000ms",
-      "traffic thing-it/cordova-plugin-localization-strings returned 403; retrying in 2000ms",
-      "traffic thing-it/cordova-plugin-secure-storage returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-lottie-splashscreen returned 403; retrying in 1000ms",
+      "traffic thing-it/cordova-plugin-localization-strings returned 403; retrying in 2000ms",
+      "traffic thing-it/xliffmerge returned 403; retrying in 1000ms",
+      "traffic thing-it/cordova-plugin-secure-storage returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-lottie-splashscreen returned 403; retrying in 2000ms",
+      "traffic thing-it/xliffmerge returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-localization-strings returned 403; retrying in 4000ms",
       "traffic thing-it/cordova-plugin-secure-storage returned 403; retrying in 4000ms",
-      "traffic thing-it/xliffmerge returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-lottie-splashscreen returned 403; retrying in 4000ms",
-      "traffic thing-it/xliffmerge returned 403; retrying in 2000ms",
       "traffic thing-it/xliffmerge returned 403; retrying in 4000ms",
       "traffic thing-it/cordova-plugin-advanced-http returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-ionic-keyboard returned 403; retrying in 1000ms",
-      "traffic thing-it/cordova-plugin-advanced-http returned 403; retrying in 2000ms",
-      "traffic thing-it/cordova-plugin-ionic-keyboard returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-sonos returned 403; retrying in 1000ms",
-      "traffic thing-it/cordova-plugin-advanced-http returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-sonos returned 403; retrying in 2000ms",
-      "traffic thing-it/cordova-plugin-ionic-keyboard returned 403; retrying in 4000ms",
+      "traffic thing-it/cordova-plugin-advanced-http returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-hello-world returned 403; retrying in 1000ms",
+      "traffic thing-it/cordova-plugin-ionic-keyboard returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-sonos returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-hello-world returned 403; retrying in 2000ms",
+      "traffic thing-it/cordova-plugin-advanced-http returned 403; retrying in 4000ms",
+      "traffic thing-it/cordova-plugin-ionic-keyboard returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-sonos returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-hello-world returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-art-net returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-yamaha returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-device-art-net returned 403; retrying in 2000ms",
-      "traffic thing-it/thing-it-device-yamaha returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-philips-hue returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-art-net returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-microcontroller returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-yamaha returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-philips-hue returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-microcontroller returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-art-net returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-yamaha returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-microcontroller returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-device-microcontroller returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-philips-hue returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-microcontroller returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-camera returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-ecobee returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-safe-plug returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-camera returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-ecobee returned 403; retrying in 2000ms",
-      "traffic thing-it/thing-it-device-safe-plug returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-device-safe-plug returned 403; retrying in 2000ms",
-      "traffic thing-it/thing-it-device-ecobee returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-camera returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-temperature-alert returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-safe-plug returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-temperature-alert returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-camera returned 403; retrying in 4000ms",
+      "traffic thing-it/thing-it-device-ecobee returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-safe-plug returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-temperature-alert returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-atlas-scientific returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-occupancy-sensor returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-weather returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-atlas-scientific returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-occupancy-sensor returned 403; retrying in 2000ms",
-      "traffic thing-it/thing-it-device-weather returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-xiaomi-smart-plant-monitor returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-weather returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-xiaomi-smart-plant-monitor returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-atlas-scientific returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-occupancy-sensor returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-xiaomi-smart-plant-monitor returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-weather returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-xiaomi-smart-plant-monitor returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-xiaomi-smart-plant-monitor returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-test returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-ui returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-test returned 403; retrying in 2000ms",
-      "traffic thing-it/thing-it-device-ui returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-ubisys returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-device-ubisys returned 403; retrying in 2000ms",
-      "traffic thing-it/thing-it-device-test returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-ui returned 403; retrying in 4000ms",
+      "traffic thing-it/thing-it-device-ui returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-google-ip returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-device-ubisys returned 403; retrying in 4000ms",
+      "traffic thing-it/thing-it-device-ubisys returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-google-ip returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-ui returned 403; retrying in 4000ms",
+      "traffic thing-it/thing-it-device-test returned 403; retrying in 4000ms",
+      "traffic thing-it/thing-it-device-ubisys returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-google-ip returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-plant-probe returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-tado returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-plant-probe returned 403; retrying in 2000ms",
-      "traffic thing-it/thing-it-device-tado returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-enocean-locker returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-tado returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-locker-station returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-enocean-locker returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-locker-station returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-plant-probe returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-tado returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-locker-station returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-device-locker-station returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-enocean-locker returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-locker-station returned 403; retrying in 4000ms",
       "traffic thing-it/azure-activedirectory-library-for-cordova returned 403; retrying in 1000ms",
@@ -50265,112 +50273,112 @@
       "traffic thing-it/azure-activedirectory-library-for-cordova returned 403; retrying in 2000ms",
       "traffic thing-it/svg-pan-zoom returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-external-desk-occupancy returned 403; retrying in 1000ms",
+      "traffic thing-it/mocha-github-reporter returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-external-desk-occupancy returned 403; retrying in 2000ms",
+      "traffic thing-it/mocha-github-reporter returned 403; retrying in 2000ms",
       "traffic thing-it/azure-activedirectory-library-for-cordova returned 403; retrying in 4000ms",
       "traffic thing-it/svg-pan-zoom returned 403; retrying in 4000ms",
-      "traffic thing-it/mocha-github-reporter returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-external-desk-occupancy returned 403; retrying in 4000ms",
-      "traffic thing-it/mocha-github-reporter returned 403; retrying in 2000ms",
       "traffic thing-it/mocha-github-reporter returned 403; retrying in 4000ms",
       "traffic thing-it/cordova-file-cache returned 403; retrying in 1000ms",
       "traffic thing-it/vecos-locker-fetcher returned 403; retrying in 1000ms",
-      "traffic thing-it/vecos-locker-fetcher returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-file-cache returned 403; retrying in 2000ms",
+      "traffic thing-it/vecos-locker-fetcher returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-migrate-localstorage returned 403; retrying in 1000ms",
+      "traffic thing-it/thing-it-device-itach returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-migrate-localstorage returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-itach returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-file-cache returned 403; retrying in 4000ms",
       "traffic thing-it/vecos-locker-fetcher returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-itach returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-migrate-localstorage returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-itach returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-itach returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-ti-sensortag returned 403; retrying in 1000ms",
       "traffic thing-it/superlance returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-device-ti-sensortag returned 403; retrying in 2000ms",
       "traffic thing-it/superlance returned 403; retrying in 2000ms",
       "traffic thing-it/lambda-cloudwatch-slack returned 403; retrying in 1000ms",
+      "traffic thing-it/phonegap-mobile-accessibility returned 403; retrying in 1000ms",
       "traffic thing-it/lambda-cloudwatch-slack returned 403; retrying in 2000ms",
+      "traffic thing-it/phonegap-mobile-accessibility returned 403; retrying in 2000ms",
       "traffic thing-it/thing-it-device-ti-sensortag returned 403; retrying in 4000ms",
       "traffic thing-it/superlance returned 403; retrying in 4000ms",
-      "traffic thing-it/phonegap-mobile-accessibility returned 403; retrying in 1000ms",
       "traffic thing-it/lambda-cloudwatch-slack returned 403; retrying in 4000ms",
-      "traffic thing-it/phonegap-mobile-accessibility returned 403; retrying in 2000ms",
       "traffic thing-it/phonegap-mobile-accessibility returned 403; retrying in 4000ms",
       "traffic thing-it/phonegap-plugin-barcodescanner returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-local-notifications returned 403; retrying in 1000ms",
       "traffic thing-it/phonegap-plugin-barcodescanner returned 403; retrying in 2000ms",
-      "traffic thing-it/cordova-plugin-inappbrowser returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-local-notifications returned 403; retrying in 2000ms",
+      "traffic thing-it/cordova-plugin-inappbrowser returned 403; retrying in 1000ms",
+      "traffic thing-it/ngx-log-monitor returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-inappbrowser returned 403; retrying in 2000ms",
       "traffic thing-it/phonegap-plugin-barcodescanner returned 403; retrying in 4000ms",
-      "traffic thing-it/cordova-plugin-local-notifications returned 403; retrying in 4000ms",
-      "traffic thing-it/ngx-log-monitor returned 403; retrying in 1000ms",
-      "traffic thing-it/cordova-plugin-inappbrowser returned 403; retrying in 4000ms",
       "traffic thing-it/ngx-log-monitor returned 403; retrying in 2000ms",
+      "traffic thing-it/cordova-plugin-local-notifications returned 403; retrying in 4000ms",
+      "traffic thing-it/cordova-plugin-inappbrowser returned 403; retrying in 4000ms",
       "traffic thing-it/ngx-log-monitor returned 403; retrying in 4000ms",
       "traffic thing-it/cordova-plugin-camera returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-ionic-webview returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-camera returned 403; retrying in 2000ms",
-      "traffic thing-it/cordova-plugin-badge returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-ionic-webview returned 403; retrying in 2000ms",
+      "traffic thing-it/cordova-plugin-badge returned 403; retrying in 1000ms",
+      "traffic thing-it/angular returned 403; retrying in 1000ms",
+      "traffic thing-it/angular returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-badge returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-camera returned 403; retrying in 4000ms",
-      "traffic thing-it/angular returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-ionic-webview returned 403; retrying in 4000ms",
-      "traffic thing-it/angular returned 403; retrying in 2000ms",
-      "traffic thing-it/cordova-plugin-badge returned 403; retrying in 4000ms",
       "traffic thing-it/angular returned 403; retrying in 4000ms",
+      "traffic thing-it/cordova-plugin-badge returned 403; retrying in 4000ms",
       "traffic thing-it/cordova-android returned 403; retrying in 1000ms",
       "traffic thing-it/photoviewer returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-android returned 403; retrying in 2000ms",
       "traffic thing-it/hull returned 403; retrying in 1000ms",
       "traffic thing-it/photoviewer returned 403; retrying in 2000ms",
+      "traffic thing-it/ng-drag-drop returned 403; retrying in 1000ms",
       "traffic thing-it/hull returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-android returned 403; retrying in 4000ms",
-      "traffic thing-it/photoviewer returned 403; retrying in 4000ms",
-      "traffic thing-it/ng-drag-drop returned 403; retrying in 1000ms",
-      "traffic thing-it/hull returned 403; retrying in 4000ms",
       "traffic thing-it/ng-drag-drop returned 403; retrying in 2000ms",
+      "traffic thing-it/photoviewer returned 403; retrying in 4000ms",
+      "traffic thing-it/hull returned 403; retrying in 4000ms",
       "traffic thing-it/ng-drag-drop returned 403; retrying in 4000ms",
       "traffic thing-it/redux-store returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-safariviewcontroller returned 403; retrying in 1000ms",
       "traffic thing-it/redux-store returned 403; retrying in 2000ms",
-      "traffic thing-it/cordova-plugin-safariviewcontroller returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-diagnostic-plugin returned 403; retrying in 1000ms",
+      "traffic thing-it/cordova-plugin-safariviewcontroller returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-device-halytech returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-diagnostic-plugin returned 403; retrying in 2000ms",
       "traffic thing-it/redux-store returned 403; retrying in 4000ms",
-      "traffic thing-it/cordova-plugin-safariviewcontroller returned 403; retrying in 4000ms",
-      "traffic thing-it/thing-it-device-halytech returned 403; retrying in 1000ms",
-      "traffic thing-it/cordova-diagnostic-plugin returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-halytech returned 403; retrying in 2000ms",
+      "traffic thing-it/cordova-plugin-safariviewcontroller returned 403; retrying in 4000ms",
+      "traffic thing-it/cordova-diagnostic-plugin returned 403; retrying in 4000ms",
       "traffic thing-it/thing-it-device-halytech returned 403; retrying in 4000ms",
       "traffic thing-it/data-utils returned 403; retrying in 1000ms",
       "traffic thing-it/wicked.portal-auth returned 403; retrying in 1000ms",
       "traffic thing-it/data-utils returned 403; retrying in 2000ms",
       "traffic thing-it/wicked.node-sdk returned 403; retrying in 1000ms",
+      "traffic thing-it/integrate-meta-dependencies returned 403; retrying in 1000ms",
       "traffic thing-it/wicked.portal-auth returned 403; retrying in 2000ms",
       "traffic thing-it/wicked.node-sdk returned 403; retrying in 2000ms",
-      "traffic thing-it/data-utils returned 403; retrying in 4000ms",
-      "traffic thing-it/integrate-meta-dependencies returned 403; retrying in 1000ms",
-      "traffic thing-it/wicked.portal-auth returned 403; retrying in 4000ms",
       "traffic thing-it/integrate-meta-dependencies returned 403; retrying in 2000ms",
+      "traffic thing-it/data-utils returned 403; retrying in 4000ms",
+      "traffic thing-it/wicked.portal-auth returned 403; retrying in 4000ms",
       "traffic thing-it/wicked.node-sdk returned 403; retrying in 4000ms",
       "traffic thing-it/integrate-meta-dependencies returned 403; retrying in 4000ms",
       "traffic thing-it/meta returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-server-nginx returned 403; retrying in 1000ms",
       "traffic thing-it/meta returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-server-nginx returned 403; retrying in 1000ms",
       "traffic thing-it/cordova-plugin-photo-viewer returned 403; retrying in 1000ms",
+      "traffic thing-it/fastclick returned 403; retrying in 1000ms",
       "traffic thing-it/thing-it-server-nginx returned 403; retrying in 2000ms",
       "traffic thing-it/cordova-plugin-photo-viewer returned 403; retrying in 2000ms",
       "traffic thing-it/meta returned 403; retrying in 4000ms",
-      "traffic thing-it/fastclick returned 403; retrying in 1000ms",
-      "traffic thing-it/thing-it-server-nginx returned 403; retrying in 4000ms",
       "traffic thing-it/fastclick returned 403; retrying in 2000ms",
+      "traffic thing-it/thing-it-server-nginx returned 403; retrying in 4000ms",
       "traffic thing-it/cordova-plugin-photo-viewer returned 403; retrying in 4000ms",
       "traffic thing-it/fastclick returned 403; retrying in 4000ms",
       "traffic thing-it/markdown-to-html-pipe returned 403; retrying in 1000ms",
-      "traffic thing-it/imply-iframe-examples returned 403; retrying in 1000ms",
       "traffic thing-it/markdown-to-html-pipe returned 403; retrying in 2000ms",
+      "traffic thing-it/imply-iframe-examples returned 403; retrying in 1000ms",
       "traffic thing-it/imply-iframe-examples returned 403; retrying in 2000ms",
       "traffic thing-it/markdown-to-html-pipe returned 403; retrying in 4000ms",
       "traffic thing-it/imply-iframe-examples returned 403; retrying in 4000ms",
@@ -50390,15 +50398,15 @@
     "twitterUsername": null,
     "websiteUrl": null,
     "createdAt": "2016-02-13T14:47:28Z",
-    "repoViews": 1227,
-    "linesOfCodeChanged": 4338623,
-    "linesAdded": 2922191,
-    "linesDeleted": 1416432,
-    "commitCount": 1518,
-    "totalCommits": 3689,
+    "repoViews": 1148,
+    "linesOfCodeChanged": 4340497,
+    "linesAdded": 2923282,
+    "linesDeleted": 1417215,
+    "commitCount": 1519,
+    "totalCommits": 3718,
     "totalPullRequests": 81,
     "totalPullRequestReviews": 666,
-    "codeByteTotal": 434342961,
+    "codeByteTotal": 434366258,
     "topLanguages": [
       {
         "languageName": "Java",
@@ -50415,7 +50423,7 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 72480892,
+        "value": 72492663,
         "percentage": 16.69
       },
       {
@@ -50439,7 +50447,7 @@
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 8760087,
+        "value": 8771423,
         "percentage": 2.02
       },
       {
@@ -50631,7 +50639,7 @@
       {
         "languageName": "Just",
         "color": "#384d54",
-        "value": 55441,
+        "value": 55631,
         "percentage": 0.01
       },
       {
@@ -50763,14 +50771,14 @@
     "repositoriesContributedTo": 3,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 6052,
+    "totalContributions": 6081,
     "contributionStats": {
       "longestStreak": 760,
-      "currentStreak": 43,
+      "currentStreak": 45,
       "mostActiveDay": "Monday",
       "averagePerDay": 1.54,
-      "averagePerWeek": 10.75,
-      "averagePerMonth": 46.07,
+      "averagePerWeek": 10.8,
+      "averagePerMonth": 46.28,
       "monthlyBreakdown": [
         {
           "month": "2016-02",
@@ -51290,7 +51298,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 17
+          "contributions": 46
         }
       ],
       "yearlyBreakdown": [
@@ -51336,7 +51344,7 @@
         },
         {
           "year": "2026",
-          "contributions": 653
+          "contributions": 682
         }
       ],
       "peakDay": {
@@ -51386,8 +51394,8 @@
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
-          "value": 37473168,
-          "percentage": 12.75
+          "value": 37484939,
+          "percentage": 12.76
         },
         {
           "languageName": "JavaScript",
@@ -51410,7 +51418,7 @@
         {
           "languageName": "Go",
           "color": "#00ADD8",
-          "value": 8096337,
+          "value": 8107673,
           "percentage": 2.76
         },
         {
@@ -51423,7 +51431,7 @@
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 2923504,
-          "percentage": 1
+          "percentage": 0.99
         },
         {
           "languageName": "Python",
@@ -51703,23 +51711,23 @@
         "workflows",
         "zeebe"
       ],
-      "contributionsThisYear": 653,
+      "contributionsThisYear": 682,
       "contributionsLastYear": 1077,
-      "yearOverYearGrowth": -39.37,
+      "yearOverYearGrowth": -36.68,
       "mostProductiveMonth": {
         "month": "2024-08",
         "contributions": 191
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 3689,
+      "totalCommitContributions": 3718,
       "restrictedContributionsCount": 738,
       "totalIssueContributions": 79,
       "totalRepositoryContributions": 67,
       "totalPullRequestContributions": 809,
       "totalPullRequestReviewContributions": 666,
       "contributionCalendar": {
-        "totalContributions": 6052,
+        "totalContributions": 6081,
         "weeks": [
           {
             "contributionDays": [
@@ -69768,8 +69776,12 @@
                 "date": "2026-11-17"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 27,
                 "date": "2026-11-18"
+              },
+              {
+                "contributionCount": 2,
+                "date": "2026-11-19"
               }
             ]
           }
@@ -69920,6 +69932,6 @@
     ],
     "closedIssues": 53,
     "openIssues": 26,
-    "fetchedAt": 1795031094416
+    "fetchedAt": 1795117510008
   }
 }
